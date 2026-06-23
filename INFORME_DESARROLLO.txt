@@ -1,0 +1,159 @@
+================================================================================
+INFORME DE DESARROLLO - PRESENTACIÓN INTERACTIVA DE DIAGNÓSTICO CONADECAFRO
+================================================================================
+
+Este documento detalla, paso por paso, las tareas técnicas, decisiones de diseño
+y procesos de datos realizados en este repositorio para construir la plataforma
+web interactiva de proyección de resultados del diagnóstico nacional de
+operadores locales de CONADECAFRO.
+
+--------------------------------------------------------------------------------
+PASO 1: DIAGNÓSTICO DE LA PLATAFORMA Y EXTRACCIÓN DE RECURSOS
+--------------------------------------------------------------------------------
+1. Se inspeccionó la estructura del espacio de trabajo y se ubicó la carpeta
+   "Diagnostico - Operadores Locales", la cual contenía los archivos fuente:
+   - "INFORMACIÓN DE OPERADORES PARA ATA.xlsx" (Nómina y demografía).
+   - "PRESENTACIÓN DIAGNÓSTICO OPERADORES LOCALES 22052025.pptx" (Estructura cualitativa).
+   - "CONADECAFRO PRODUCTO 1-IDENTIDAD VISUAL (LOW)_ AJUSTABLE.pdf" (Branding oficial).
+   - "venezuela-json-master.zip" (Base de datos territorial).
+2. Se extrajo la presentación de PowerPoint ("PRESENTACIÓN DIAGNÓSTICO OPERADORES LOCALES 22052025.pptx")
+   en formato XML en un entorno temporal para leer mediante un script en Node.js
+   los textos textuales de debilidades, fortalezas, sugerencias y propuestas,
+   evitando así el uso de textos de relleno y garantizando fidelidad del 100% con
+   los datos institucionales.
+3. Se descomprimió el archivo de mapas "venezuela-json-master.zip" para analizar su
+   estructura. Se verificó que consistía en una base de datos jerárquica de
+   estados/municipios pero no contenía coordenadas vectoriales.
+
+--------------------------------------------------------------------------------
+PASO 2: ADQUISICIÓN Y PRE-PROYECCIÓN DEL MAPA VECTORIAL (OPTIMIZACIÓN DE RENDIMIENTO)
+--------------------------------------------------------------------------------
+1. Para renderizar un mapa interactivo de Venezuela sin añadir peso excesivo ni
+   dependencias del navegador que ralenticen la carga en Vercel, se optó por un
+   enfoque de compilación previa:
+   - Se descargó el GeoJSON oficial de estados de Venezuela de un repositorio público.
+   - Se escribió un script local en Node.js ("geojson_to_svg.mjs") utilizando la
+     librería "d3-geo" (proyección Mercator adaptada a Venezuela).
+   - Se proyectaron las coordenadas geográficas a coordenadas 2D SVG dentro de un
+     viewport de 800x600 y se exportaron las rutas resultantes a un archivo JSON
+     ligero llamado "venezuela_svg_paths.json".
+   - Esto permite que el mapa cargue al instante y sea 100% interactivo mediante
+     código SVG nativo y Tailwind CSS, sin usar librerías de mapeo cliente pesadas.
+
+--------------------------------------------------------------------------------
+PASO 3: EXTRACCIÓN Y ANÁLISIS DE LA GUÍA DE IDENTIDAD VISUAL (PDF)
+--------------------------------------------------------------------------------
+1. Para cumplir con el requerimiento de identidad visual, se escribió un script
+   en Node.js ("extract_pdf_text_correct.js") que procesó el manual oficial
+   "CONADECAFRO PRODUCTO 1-IDENTIDAD VISUAL (LOW)_ AJUSTABLE.pdf".
+2. Se extrajeron con éxito los códigos cromáticos oficiales de la institución,
+   los cuales representan las 5 dimensiones fundamentales del Decenio de CONADECAFRO:
+   - MORADO (#6B017F): Representa "JUSTICIA" (Bandera de Chirinos en la Sierra de Falcón).
+     Símbolo Adinkra asociado: "Cuernos de carnero" (Fuerza y humildad).
+   - TEAL (#17A492): Representa "RECONOCIMIENTO" (Fertilidad de la tierra/mujer).
+     Símbolo Adinkra asociado: "La tela de la araña" (Creatividad y sabiduría).
+   - AMARILLO/ORO (#FFBF1B): Representa "INCLUSIÓN" (Riqueza/Oro).
+     Símbolo Adinkra asociado: "Cocodrilos siameses" (Unidad y diversidad).
+   - ROJO/TERRACOTA (#C6321E): Representa "DESARROLLO" (Sangre/Salud/Vitalidad).
+     Símbolo Adinkra asociado: "Ayúdame y deja que te ayude" (Cooperación).
+   - GRIS/BLANCO (#CCCCCC): Representa "PAZ" (Esperanza/Paz).
+     Símbolo Adinkra asociado: "Verja, valla" (Seguridad y amor).
+3. Se identificó la tipografía oficial para el texto y logotipos: "Outfit"
+   (específicamente Outfit-Bold y Outfit-Regular), combinada con "Inter" para
+   cuerpo de texto general.
+
+--------------------------------------------------------------------------------
+PASO 4: CONSTRUCCIÓN DEL COMPILADOR DE DATOS INTEGRADO (EXCEL A JSON)
+--------------------------------------------------------------------------------
+1. Se programó el script extractor "scripts/compile_data.cjs" en Node.js que:
+   - Lee la hoja "PERSONAL ACTIVO" del Excel con "xlsx".
+   - Filtra y extrae los 55 registros de operadores válidos (excluyendo cabeceras e
+     información resumen lateral).
+   - Corrige discrepancias en nombres de estados (ej. "La Guaira" en Excel mapeado
+     a la clave histórica "Vargas" en el mapa, "Anzoátegui" y "Mérida" con acentos).
+   - Agrupa los operadores y calcula las estadísticas de operadores por estado
+     y por municipio de forma automática.
+   - Combina estos datos con las rutas SVG previamente calculadas del mapa y
+     los contenidos cualitativos de la presentación en un archivo JSON unificado
+     "src/data/data.json" (peso de apenas 55 KB).
+2. Se configuraron los valores estáticos de demografía solicitados en el
+   requerimiento (Bachilleres 36.4%, Universitarios 45.5%, etc.) y se normalizaron
+   los porcentajes de género (originalmente Mujeres 56.8% y Hombres 46.2%) en base
+   a una escala de 100% visual para gráficos circulares, preservando las etiquetas
+   textuales con los valores oficiales.
+
+--------------------------------------------------------------------------------
+PASO 5: CONFIGURACIÓN E INSTALACIÓN DEL ENTORNO REACT + TAILWIND V4
+--------------------------------------------------------------------------------
+1. Se inicializó la aplicación React utilizando la plantilla de Vite en una
+   carpeta temporal, moviendo luego toda la estructura al directorio raíz para
+   facilitar el despliegue automático en Vercel.
+2. Se instaló la última versión estable de Tailwind CSS (v4) junto con su
+   complemento integrado para Vite ("@tailwindcss/vite").
+3. Se instalaron las dependencias de interfaz: "recharts" para gráficos y
+   "lucide-react" para iconos modernos.
+4. Se configuró "vite.config.js" para cargar el plugin de Tailwind CSS v4 y se
+   limpió "src/index.css" definiendo variables del tema cromático y fuentes de
+   CONADECAFRO en la directiva `@theme` nativa de Tailwind v4.
+5. Se modificó "index.html" para importar las fuentes oficiales de Google Fonts
+   (Outfit e Inter), configurar el idioma en español y añadir descripciones SEO.
+
+--------------------------------------------------------------------------------
+PASO 6: DESARROLLO DE COMPONENTES FRONTEND (UI/UX)
+--------------------------------------------------------------------------------
+Se implementaron los siguientes módulos en React bajo la paleta institucional:
+1. "src/components/Header.jsx": Barra de navegación superior fija de vidrio esmerilado
+   (glassmorphism) con el branding de la institución ("conade cafro" en caja baja
+   según manual) e iconos de navegación integrados.
+2. "src/components/MapSection.jsx":
+   - Dashboard de KPIs principales: Total operadores (55), Estados activos (20),
+     Municipios abordados (33), Máxima densidad (Miranda, 8 operadores).
+   - Renderizado del mapa SVG interactivo de Venezuela con un mapa de calor (choropleth).
+   - Tooltip flotante al pasar el cursor (hover) con detalles rápidos.
+   - Panel lateral interactivo al hacer clic en un estado: muestra una lista de
+     botones para filtrar por municipio y una tabla dinámica para buscar operadores
+     por nombre, cargo o profesión.
+3. "src/components/QualitativeSection.jsx":
+   - Panel interactivo con pestañas para alternar entre Debilidades, Fortalezas
+     y Sugerencias.
+   - Re-diseño visual completo de los 5 símbolos Adinkra vectorizados en SVG,
+     los cuales cambian de color y forma dinámicamente según el eje (Justicia,
+     Reconocimiento, Inclusión, Desarrollo, Paz).
+   - Tarjetas de lectura premium que explican textualmente cada eje del diagnóstico.
+4. "src/components/DemographicsSection.jsx":
+   - Gráfico de torta tipo "Donut" para Nivel de Instrucción utilizando las 5
+     gamas de color oficiales.
+   - Gráfico de barra de Rangos de Edad con degradados en color Teal.
+   - Gráfico de género normalizado visualmente a base 100% que muestra los valores
+     reales (Mujeres 56.8%, Hombres 46.2%) en tooltip y leyenda.
+5. "src/components/ProposalsSection.jsx":
+   - Línea de tiempo interactiva (timeline) con el plan de propuestas.
+   - Permite al usuario marcar hitos como "completados" de forma visual.
+
+--------------------------------------------------------------------------------
+PASO 7: INTEGRACIÓN DE DISEÑO 3D CON SPLINE INTERACTIVO
+--------------------------------------------------------------------------------
+1. Se instalaron las dependencias oficiales "@splinetool/react-spline" y
+   "@splinetool/runtime".
+2. Se desarrolló el componente envoltorio "src/components/SplineScene.jsx" que
+   implementa un patrón de carga perezosa (lazy-loading con Suspense y dynamic import).
+   Esto separa la pesada biblioteca 3D del paquete principal de la web, reduciendo el
+   tiempo de carga inicial.
+3. Se integró la escena provista (https://prod.spline.design/HrIm7NxLsgR5ntls/scene.splinecode)
+   en la sección principal de "Inicio" (Bienvenida). El componente 3D se visualiza en la
+   tarjeta derecha de la presentación de bienvenida, permitiendo interactuar táctil y
+   visualmente con el personaje animado. Se utiliza lazy-loading para asegurar que la
+   GPU del navegador solo se active en esta pestaña inicial y no degrade el rendimiento de
+   las consultas de mapas y estadísticas.
+
+--------------------------------------------------------------------------------
+PASO 8: COMPILACIÓN Y VERIFICACIÓN
+--------------------------------------------------------------------------------
+1. Se ejecutó la compilación de producción ("npm run build"), la cual finalizó de
+   manera exitosa en 3.68 segundos.
+2. El compilador de Vite detectó la carga perezosa y dividió el código en trozos
+   asíncronos independientes (react-spline.js y physics.js de ~2 MB cada uno),
+   permitiendo que el archivo index.js principal de la web mantenga un peso muy
+   ligero (~669 KB, ~202 KB gzipped) para un rendimiento óptimo.
+3. Toda la información demográfica y territorial proviene del cruce automatizado,
+   garantizando la integridad de los datos para la posterior publicación en Vercel.

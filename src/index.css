@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+@theme {
+  /* Brand colors based on CONADECAFRO visual identity manual */
+  --color-brand-purple: #6B017F;  /* Justicia - Chirinos Sierra de Falcón */
+  --color-brand-teal: #17A492;    /* Reconocimiento - Fertilidad tierra/mujer */
+  --color-brand-yellow: #FFBF1B;  /* Inclusión - Riqueza/Oro */
+  --color-brand-red: #C6321E;     /* Desarrollo - Sangre/Salud/Vitalidad */
+  --color-brand-gray: #CCCCCC;    /* Paz - Esperanza/Paz */
+  
+  /* Additional UI colors */
+  --color-brand-dark: #0f0d13;
+  --color-brand-card-dark: rgba(26, 21, 35, 0.7);
+  --color-brand-card-border: rgba(107, 1, 127, 0.2);
+  
+  /* Fonts */
+  --font-outfit: "Outfit", sans-serif;
+  --font-inter: "Inter", sans-serif;
+}
+
+/* Custom Base Styles */
+body {
+  font-family: var(--font-inter);
+  background-color: var(--color-brand-dark);
+  color: #f3f4f6;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-outfit);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0f0d13;
+}
+::-webkit-scrollbar-thumb {
+  background: #2b2137;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #6B017F;
+}
+
+/* Custom Glassmorphism styles */
+.glass-panel {
+  background: rgba(19, 15, 27, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.glass-card-purple {
+  background: rgba(26, 12, 38, 0.55);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(107, 1, 127, 0.2);
+}
+
+.glass-card-teal {
+  background: rgba(12, 38, 35, 0.55);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(23, 164, 146, 0.2);
+}
+
+.glass-card-yellow {
+  background: rgba(38, 32, 12, 0.55);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 191, 27, 0.2);
+}
+
+.glass-card-red {
+  background: rgba(38, 14, 12, 0.55);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(198, 50, 30, 0.2);
+}
+
+.glass-card-gray {
+  background: rgba(30, 30, 32, 0.55);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(204, 204, 204, 0.2);
+}

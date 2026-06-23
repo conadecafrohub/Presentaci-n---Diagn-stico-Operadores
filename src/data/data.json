@@ -1,0 +1,1981 @@
+{
+  "operators": [
+    {
+      "num": 1,
+      "cedula": 6813833,
+      "nombre": "LUIS MANUEL PERDOMO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Miranda",
+      "municipio": "Andrés Bello",
+      "parroquia": "San José de Barlovento",
+      "edad": 64,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Licenciatura en Comunicación Social"
+    },
+    {
+      "num": 2,
+      "cedula": 6872866,
+      "nombre": "RUBIZ JOSÉ MAZA HERNÁNDEZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Anzoategui",
+      "municipio": "Simón Bolívar",
+      "parroquia": "El carmen",
+      "edad": 62,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 3,
+      "cedula": 6889998,
+      "nombre": "PETRA ELEUTERIA BOLÍVAR FLORES",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "La Guaira",
+      "municipio": "Vargas",
+      "parroquia": "Caruao",
+      "edad": 63,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller Integral"
+    },
+    {
+      "num": 4,
+      "cedula": 7899309,
+      "nombre": "JULIA DEL CARMEN DE LA CRUZ ARÉVALO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Zulia",
+      "municipio": "Colón",
+      "parroquia": "Santa Bárbara",
+      "edad": 57,
+      "sexo": "F",
+      "nivelAcademico": "ESPECIALIDAD",
+      "profesion": "Especialización en Planificación Educacional"
+    },
+    {
+      "num": 5,
+      "cedula": 7990957,
+      "nombre": "LEONOR AMARILIS BUSTAMANTE OROPEZA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "La Guaira",
+      "municipio": "Vargas",
+      "parroquia": "Macuto",
+      "edad": 59,
+      "sexo": "F",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Licenciatura en Administración y Gestión"
+    },
+    {
+      "num": 6,
+      "cedula": 8478871,
+      "nombre": "NANCY DEL VALLE GUZMÁN MARÍN",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Amazonas",
+      "municipio": "Atures",
+      "parroquia": "Luis Alberto Gómez",
+      "edad": 60,
+      "sexo": "F",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Licenciatura en Educación. Mención Ciencias Sociales"
+    },
+    {
+      "num": 7,
+      "cedula": 8762693,
+      "nombre": "FRANKLIM JOSÉ RAMOS VERENZUELA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Miranda",
+      "municipio": "Ambrosio Plaza",
+      "parroquia": "Guarenas",
+      "edad": 59,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Ciencias"
+    },
+    {
+      "num": 8,
+      "cedula": 8770034,
+      "nombre": "ALEXANDER RAFAEL SISO TOVAR",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Guárico",
+      "municipio": "Julián Mellado",
+      "parroquia": "El Sombrero",
+      "edad": 61,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Licenciatura en Administración Comercial"
+    },
+    {
+      "num": 9,
+      "cedula": 9373560,
+      "nombre": "RAMÓN CELESTINO DÍAZ GARCÍA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Yaracuy",
+      "municipio": "Cocorote",
+      "parroquia": "Cocorote",
+      "edad": 57,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Abogado"
+    },
+    {
+      "num": 10,
+      "cedula": 9886301,
+      "nombre": "ALEXANDER JOSÉ AVILÉ CÓRDOVA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Guárico",
+      "municipio": "José Tadeo Monagas",
+      "parroquia": "San Francisco Javier de Lezama",
+      "edad": 56,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller Integral"
+    },
+    {
+      "num": 11,
+      "cedula": 10240955,
+      "nombre": "CARLOS AOGUSTO CHOURIO CHOURIO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Mérida",
+      "municipio": "Caracciolo Parra Olmedo",
+      "parroquia": "Florencio Ramírez",
+      "edad": 55,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Ciencias"
+    },
+    {
+      "num": 12,
+      "cedula": 10633709,
+      "nombre": "NÉSVIER NESLU PESCOSO ZERPA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Miranda",
+      "municipio": "Simón Bolívar",
+      "parroquia": "San Francisco de Yare",
+      "edad": 54,
+      "sexo": "F",
+      "nivelAcademico": "TECNICO SUPERIOR",
+      "profesion": "TSU en Educación Inicial"
+    },
+    {
+      "num": 13,
+      "cedula": 11002013,
+      "nombre": "MARGARITA EUGENIA MATA MOYA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Anzoategui",
+      "municipio": "Anaco",
+      "parroquia": "Buena Vista",
+      "edad": 53,
+      "sexo": "F",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Abogada"
+    },
+    {
+      "num": 14,
+      "cedula": 11243578,
+      "nombre": "RAFAEL ALAN CASTILLO CONTRERAS",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Apure",
+      "municipio": "Achaguas",
+      "parroquia": "Mucuritas",
+      "edad": 55,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Humanidades"
+    },
+    {
+      "num": 15,
+      "cedula": 11273432,
+      "nombre": "MERXIS COROMOTO SÁNCHEZ MONTERO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Yaracuy",
+      "municipio": "Veroes",
+      "parroquia": "Farriar",
+      "edad": 54,
+      "sexo": "F",
+      "nivelAcademico": "MAGISTER",
+      "profesion": "Magíster en Biotecnología Alimentaria"
+    },
+    {
+      "num": 16,
+      "cedula": 11277384,
+      "nombre": "ELISA GUTIÉRREZ LÓPEZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Yaracuy",
+      "municipio": "Veroes",
+      "parroquia": "Farriar",
+      "edad": 54,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 17,
+      "cedula": 11336150,
+      "nombre": "JAVIER JOSÉ ARISMENDI DÍAZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Monagas",
+      "municipio": "Maturin",
+      "parroquia": "Alto de los Godos",
+      "edad": 54,
+      "sexo": "M",
+      "nivelAcademico": "MAGISTER",
+      "profesion": "Magister en Ciencias, mención Planificación y Evaluación de la Educación"
+    },
+    {
+      "num": 18,
+      "cedula": 11637245,
+      "nombre": "GLORIA AYARI UGUETO GUEVARA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "La Guaira",
+      "municipio": "Vargas",
+      "parroquia": "Carlos Soublette",
+      "edad": 54,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Humanidades"
+    },
+    {
+      "num": 19,
+      "cedula": 12282340,
+      "nombre": "EYALIZ JOSEFINA ORTEGA CASTILLO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Yaracuy",
+      "municipio": "San Felipe",
+      "parroquia": "San Felipe",
+      "edad": 52,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 20,
+      "cedula": 12437419,
+      "nombre": "DAVID GREGORIO MEDINA TAYUPO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Anzoategui",
+      "municipio": "Francisco de Miranda",
+      "parroquia": "Pariaguán",
+      "edad": 51,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Ingeniero en Producción Animal"
+    },
+    {
+      "num": 21,
+      "cedula": 12528540,
+      "nombre": "NOHEMY DE JESÚS BETANCOURT PEÑA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Lara",
+      "municipio": "Palavecino",
+      "parroquia": "José Gregorio Bastidas",
+      "edad": 51,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller Integral"
+    },
+    {
+      "num": 22,
+      "cedula": 12528673,
+      "nombre": "YERLI ZOE BETANCOURT PEÑA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Lara",
+      "municipio": "Simón Planas",
+      "parroquia": "Gustavo Vegas León",
+      "edad": 49,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Ciencias"
+    },
+    {
+      "num": 23,
+      "cedula": 12937003,
+      "nombre": "YONI IVÁN OLIVEROS MARTÍNEZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Yaracuy",
+      "municipio": "San Felipe",
+      "parroquia": "San Felipe",
+      "edad": 53,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Abogado"
+    },
+    {
+      "num": 24,
+      "cedula": 13253196,
+      "nombre": "FRANCISCO JAVIER PÉREZ CORTEZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Distrito Capital",
+      "municipio": "Libertador",
+      "parroquia": "La Vega",
+      "edad": 49,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller Integral"
+    },
+    {
+      "num": 25,
+      "cedula": 13540590,
+      "nombre": "OMLY KARLA PALACIOS LABORI",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Nueva esparta",
+      "municipio": "Maneiro",
+      "parroquia": "Pampatar",
+      "edad": 48,
+      "sexo": "F",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Licenciatura en Educación: Mención Preescolar."
+    },
+    {
+      "num": 26,
+      "cedula": 13547176,
+      "nombre": "CAROL VIOLETA CHOURIO PIRELA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Mérida",
+      "municipio": "Tulio Febres Cordero",
+      "parroquia": "Independencia",
+      "edad": 49,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 27,
+      "cedula": 13861448,
+      "nombre": "ISMAEL ARGENIS LEÓN TOVAR",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Distrito Capital",
+      "municipio": "Libertador",
+      "parroquia": "Sucre",
+      "edad": 48,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Ciencias"
+    },
+    {
+      "num": 28,
+      "cedula": 14053121,
+      "nombre": "YSABEL ALEXANDRA PORRA CHOURIO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Zulia",
+      "municipio": "Sucre",
+      "parroquia": "Romulo Gallegos",
+      "edad": 49,
+      "sexo": "F",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Licenciatura en Educación"
+    },
+    {
+      "num": 29,
+      "cedula": 14439778,
+      "nombre": "JESÚS GERMAÍN CALZADILLA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Monagas",
+      "municipio": "Caripe",
+      "parroquia": "El Guácharo",
+      "edad": 46,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Maestro: Educación Integral"
+    },
+    {
+      "num": 30,
+      "cedula": 14887465,
+      "nombre": "GABINO CRISPIANO ROMERO PERAZA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Lara",
+      "municipio": "Simón Planas",
+      "parroquia": "Gustavo Vegas León",
+      "edad": 47,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Ciencias"
+    },
+    {
+      "num": 31,
+      "cedula": 15225657,
+      "nombre": "ÁNGELA JOSELYN SUPERVILLE MIJARES",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Carabobo",
+      "municipio": "Puerto Cabello",
+      "parroquia": "Borburata",
+      "edad": 45,
+      "sexo": "F",
+      "nivelAcademico": "MAGISTER",
+      "profesion": "Magíster en Educación: Mención Enseñanza de la Geografía"
+    },
+    {
+      "num": 32,
+      "cedula": 15474234,
+      "nombre": "EULALIA ESTELA SÁNCHEZ PIÑANGO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Miranda",
+      "municipio": "Simón Bolívar",
+      "parroquia": "San Francisco de Yare",
+      "edad": 46,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 33,
+      "cedula": 15590902,
+      "nombre": "ROSIRIS ELIANNY CARUCI RODRÍGUEZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Zulia",
+      "municipio": "Sucre",
+      "parroquia": "El Batey",
+      "edad": 46,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller Integral"
+    },
+    {
+      "num": 34,
+      "cedula": 15973030,
+      "nombre": "ERICK ALBERTO FUENMAYOR CHACÓN",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Zulia",
+      "municipio": "Santa Rita",
+      "parroquia": "Santa Rita",
+      "edad": 43,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 35,
+      "cedula": 16108221,
+      "nombre": "ARELIS ELENA LLINAS TURIZO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Miranda",
+      "municipio": "Cristobal Rojas",
+      "parroquia": "Charallave",
+      "edad": 43,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Ciencias"
+    },
+    {
+      "num": 36,
+      "cedula": 16910629,
+      "nombre": "YRMA ANDREINA OSES MATA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Miranda",
+      "municipio": "Andrés Bello",
+      "parroquia": "San José de Barlovento",
+      "edad": 43,
+      "sexo": "F",
+      "nivelAcademico": "TITULO SIN REGISTRO",
+      "profesion": "Profesora Especializada en Educacion Primaria"
+    },
+    {
+      "num": 37,
+      "cedula": 17139897,
+      "nombre": "YRAIDA JOSEFINA MATOS DÍAZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Aragua",
+      "municipio": "Ocumare de la Costa de Oro",
+      "parroquia": "Costa de Oro (comunidad cata)",
+      "edad": 41,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 38,
+      "cedula": 17923050,
+      "nombre": "CARELIS MARÍA ÁLVAREZ SANGRONIS",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Falcón",
+      "municipio": "Miranda",
+      "parroquia": "San Gabriel",
+      "edad": 39,
+      "sexo": "F",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Licenciatura en Contaduría Pública"
+    },
+    {
+      "num": 39,
+      "cedula": 18289329,
+      "nombre": "JOSÉ LUIS OVIEDO ORELLANA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Apure",
+      "municipio": "Muñoz",
+      "parroquia": "Mantecal",
+      "edad": 37,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Ciencias"
+    },
+    {
+      "num": 40,
+      "cedula": 18404108,
+      "nombre": "JHONATAN JOSÉ RODRÍGUEZ URBINA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Miranda",
+      "municipio": "Acevedo",
+      "parroquia": "Marizapa",
+      "edad": 41,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Licenciatura en Educación. Mención Desarrollo Cultural"
+    },
+    {
+      "num": 41,
+      "cedula": 19043165,
+      "nombre": "SERGIO IRENEO AGUIRRE PINEDA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Zulia",
+      "municipio": "Sucre",
+      "parroquia": "Heras",
+      "edad": 36,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Licenciatura en Educación"
+    },
+    {
+      "num": 42,
+      "cedula": 19352424,
+      "nombre": "WENDY STEFAN QUERALES LARGO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Amazonas",
+      "municipio": "Atures",
+      "parroquia": "Luis Alberto Gómez",
+      "edad": 37,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller Integral"
+    },
+    {
+      "num": 43,
+      "cedula": 19818643,
+      "nombre": "SANDY RAFAEL ALMARIO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Yaracuy",
+      "municipio": "Veroes",
+      "parroquia": "Farriar",
+      "edad": 36,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Ingeniero Agrónomo"
+    },
+    {
+      "num": 44,
+      "cedula": 20778956,
+      "nombre": "ENYERLIS CHIQUINQUIRÁ ESTRADA ARENA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Trujillo",
+      "municipio": "La Ceiba",
+      "parroquia": "La Ceiba",
+      "edad": 38,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 45,
+      "cedula": 21395333,
+      "nombre": "HERMES JOEL HERNÁNDEZ MORENO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Portuguesa",
+      "municipio": "Páez",
+      "parroquia": "Acarigua",
+      "edad": 32,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Licenciatura en Teatro. Mención Actuación"
+    },
+    {
+      "num": 46,
+      "cedula": 22039628,
+      "nombre": "MERCICHARLOT NETZALETH PESCOSO ZERPA",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Miranda",
+      "municipio": "Independencia",
+      "parroquia": "Santa Teresa del Tuy",
+      "edad": 34,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Ciencias"
+    },
+    {
+      "num": 47,
+      "cedula": 23059195,
+      "nombre": "RAFAEL IGNACIO NIEVES FAGÚNDEZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Apure",
+      "municipio": "San Fernando",
+      "parroquia": "San Fernando",
+      "edad": 32,
+      "sexo": "M",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Ingeniero Civil"
+    },
+    {
+      "num": 48,
+      "cedula": 25775212,
+      "nombre": "CARMEN GABRIELA PÉREZ CRUZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Apure",
+      "municipio": "Biruaca",
+      "parroquia": "Biruaca",
+      "edad": 30,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Educación Media General en Ciencias Básicas y Tecnología"
+    },
+    {
+      "num": 49,
+      "cedula": 25995616,
+      "nombre": "NICELYS NOEMÍ DEL CARMEN NOGUERA RIGUAL",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Sucre",
+      "municipio": "Andrés Mata",
+      "parroquia": "Santa Catalina",
+      "edad": 31,
+      "sexo": "F",
+      "nivelAcademico": "LICENCIADO",
+      "profesion": "Ingeniero Naval"
+    },
+    {
+      "num": 50,
+      "cedula": 26908196,
+      "nombre": "AYURAI CLAVEL HERNÁNDEZ MEJÍAS",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Distrito Capital",
+      "municipio": "Libertador",
+      "parroquia": "Sucre",
+      "edad": 29,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Humanidades"
+    },
+    {
+      "num": 51,
+      "cedula": 27243634,
+      "nombre": "MARÍA ALEJANDRA MORALES RODRÍGUEZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Monagas",
+      "municipio": "Uracoa",
+      "parroquia": "Uracoa",
+      "edad": 29,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 52,
+      "cedula": 27793314,
+      "nombre": "MAIBE ZANDALY CASTILLO PACHECO",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Distrito Capital",
+      "municipio": "Libertador",
+      "parroquia": "San José",
+      "edad": 25,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 53,
+      "cedula": 29525538,
+      "nombre": "GUSBERLY ZAIRE JASPE MEJÍAS",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Cojedes",
+      "municipio": "Ezequiel Zamora",
+      "parroquia": "San Carlos de Austria",
+      "edad": 24,
+      "sexo": "F",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller"
+    },
+    {
+      "num": 54,
+      "cedula": 30624460,
+      "nombre": "LUIS MANUEL GONZÁLEZ RODRÍGUEZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Monagas",
+      "municipio": "Bolívar",
+      "parroquia": "Caripito",
+      "edad": 22,
+      "sexo": "M",
+      "nivelAcademico": "TECNICO SUPERIOR",
+      "profesion": "T.S.U. en Mantenimiento"
+    },
+    {
+      "num": 55,
+      "cedula": 32198099,
+      "nombre": "ANDERSON DANIEL FIGUEROA NÚÑEZ",
+      "cargo": "OPERADOR LOCAL",
+      "conceptos": "CONTRATADO",
+      "tareas": "Actúa como promotor, organizador y operador local de las líneas de trabajo de la institución dentro de un territorio determinado.",
+      "estado": "Sucre",
+      "municipio": "Libertador",
+      "parroquia": "Tunapuy",
+      "edad": 18,
+      "sexo": "M",
+      "nivelAcademico": "BACHILLER",
+      "profesion": "Bachiller en Ciencias"
+    }
+  ],
+  "mapData": [
+    {
+      "id": "VE-Y",
+      "name": "Delta Amacuro",
+      "displayName": "Delta Amacuro",
+      "path": "M633.069,287.611L641.149,298.359L640.611,300.054L639.856,300.745L636.266,301.512L634.158,303.098L633.129,307.398L632.066,308.487L628.811,308.65L626.692,310.483L624.802,311.22L623.352,312.922L612.477,313.15L606.089,317.013L603.027,319.653L595.696,311.939L593.592,312.151L591.969,313.522L589.424,313.885L584.998,316.191L582.255,316.921L581.083,316.468L570.588,305.085L569.243,301.53L569.565,298.387L545.49,297.323L531.702,291.987L534.942,289.146L538.066,289.369L540.801,288.1L542.498,286.363L545.791,286.02L548.061,282.741L552.256,280.592L552.687,278.012L555.015,275.081L554.874,274.18L553.028,273.796L551.902,272.214L553.044,267.479L551.727,267.157L550.15,267.768L549.499,266.129L546.963,267.134L544.738,264.763L542.573,264.417L543.227,262.182L542.604,255.777L539.995,253.389L539.633,250.83L537.763,249.717L537.895,248.451L540.317,245.474L542.414,241.355L542.676,241.858L544.573,239.447L545.655,236.405L545.094,231.153L546.481,232.59L548.184,236.274L548.294,241.909L547.833,243.598L546.729,244.585L548.059,244.148L549.144,241.064L548.901,236.11L547.536,232.813L550.515,233.266L551.734,234.95L554.139,235.145L551.712,234.199L549.879,232.501L546.503,232.054L545.898,231.449L547.485,229.343L554.216,231.832L561.845,238.438L562.674,240.184L561.281,244.062L563.186,239.677L563.865,239.744L565.312,242.131L565.312,246.242L565.796,242.346L564.531,239.677L563.186,239.131L561.974,237.032L563.472,236.892L571.245,238.836L571.981,238.332L571.811,237.764L568.158,234.263L569.505,234.172L575.84,238.048L577.942,240.66L576.535,237.619L574.762,236.536L577.277,237.381L585.25,244.815L586.449,247.001L587.002,246.764L586.359,245.945L587.308,245.936L589.436,247.195L592.461,246.845L595.458,248.108L596.322,249.237L595.787,248.692L595.787,250.328L599.314,251.328L602.523,254.685L603.06,256.523L602.523,258.272L602.013,257.43L601.561,259.148L597.422,260.721L591.928,264.746L591.193,265.936L590.146,268.364L596.162,262.745L594.296,268.074L591.465,270.118L590.633,271.596L589.922,273.851L590.146,275.707L587.47,280.535L586.314,285.581L585.376,286.366L580.843,285.539L573.977,286.075L569.953,284.739L568.627,285.283L568.906,286.504L573.418,288.822L574.897,288.551L577.472,290.748L580.427,290.453L581.502,292.378L583.38,294.007L587.433,290.181L593.508,289.882L592.975,290.999L591.486,291.253L591.18,293.276L591.726,293.764L591.936,291.657L593.753,291.159L595.515,286.895L606.653,285.754L609.264,287.711L615.054,288.631L615.736,288.551L618.012,285.045L619.264,284.532L626.112,284.992ZM590.681,285.833L594.712,285.833L594.848,286.866L593.465,288.203L592.562,287.711L592.919,289.181L583.918,289.34L585.6,287.07L587.463,287.148L589.583,288.551L589.131,287.541ZM597.691,268.883L599.453,268.902L600.913,269.995L599.837,270.243L600.423,271.186L599.866,272.357L597.167,274.639L590.95,277.088L593.897,274.783ZM591.193,274.37L590.755,273.976L591.827,270.86L594.465,269.995L597.276,267.004L600.375,266.187L599.447,268.278L596.798,268.988L593.489,272.061L592.831,273.531ZM600.554,263.522L598.893,266.09L596.077,267.252L597.042,263.458L600.324,262.286ZM601.72,261.809L604.078,260.836L605.235,262.33L602.523,263.171L601.486,265.145L600.644,265.372ZM579.201,286.713L582.178,287.082L582.645,289.322L584.316,290.461L584.181,291.665L583.01,291.631L581.24,289.523L577.493,289.356L573.306,287.317ZM603.983,281.256L607.298,279.457L606.859,281.563L607.693,282.502L609.834,282.607L609.595,284.479L602.102,284.632ZM592.195,278.054L599.146,276.369L599.995,275.184L603.284,275.19L605.083,274.312L604.877,275.329L606.906,278.418L603.613,280.309L602.151,283.052L600.59,284.44L590.861,284.598L587.87,286.127L587.98,281.986L589.58,279.713ZM545.74,228.071L545.956,229.575L543.491,230.78L543.948,229.154Z",
+      "operatorCount": 0,
+      "municipalities": {},
+      "operators": []
+    },
+    {
+      "id": "VE-F",
+      "name": "Bolívar",
+      "displayName": "Bolívar",
+      "path": "M623.352,312.922L619.152,316.801L613.211,317.207L610.802,320.631L610.241,324.334L609.044,324.701L607.491,327.025L605.708,327.599L605.154,328.637L606.331,331.491L607.905,332.18L608.196,333.675L609.15,334.234L610.221,336.385L610.202,337.321L608.577,339.537L609.173,341.897L612.336,344.5L615.195,342.002L619.259,342.645L622.095,344.678L622.424,345.975L621.952,347.329L619.744,349.281L619.05,351.911L617.334,351.765L612.308,354.9L608.735,355.906L606.343,358.705L605.509,358.997L602.677,357.645L600.942,357.941L598.191,356.796L598.509,358.646L597.158,360.105L589.447,360.734L587.072,364.02L586.215,366.85L589.057,371.608L588.224,375.523L588.783,377.429L590.038,378.624L589.772,381.686L588.216,381.835L586.904,383.814L583.957,384.828L581.254,389.593L578.948,391.223L579.621,392.816L604.789,420.609L607.761,421.869L610.343,428.716L610.608,430.578L609.794,432.519L605.643,437.11L600.061,439.947L598.653,440.101L596.608,445.427L595.448,446.951L587.922,448.716L585.189,447.705L582.139,447.511L581.85,447.982L583.026,450.381L581.445,451.335L576.529,451.522L574.811,452.204L573.833,456.794L572.238,458.253L565.529,458.113L560.451,461.862L557.909,462.281L555.6,461.492L553.835,461.75L549.172,464.494L538.373,460.831L537,461.165L536.185,462.566L534.089,463.11L533.146,466.565L525.931,466.714L525.071,467.239L525.069,469.448L524.183,472.023L526.085,478.231L525.726,481.447L524.28,483.653L520.224,485.371L517.799,485.002L515.99,483.86L505.992,472.529L502.037,469.683L499.138,469.303L497.429,473.291L495.784,473.791L491.372,470.61L489.453,470.175L485.542,470.863L481.445,470.035L476.674,472.756L475.052,472.689L474.023,471.542L471.612,464.566L469.74,463.189L462.175,462.066L452.606,463.067L451.04,459.855L451.873,455.04L450.266,446.029L448.908,444.872L439.475,443.39L433.847,436.521L429.95,428.602L428.453,422.909L426.088,419.666L426.397,417.661L430.936,416.993L432.572,414.553L432.463,413.645L429.97,411.447L431.512,409.905L431.859,407.814L427.68,404.367L426.786,402.446L428.285,400.161L428.356,398.619L426.731,398.011L419.982,397.962L418.503,398.345L415.487,401.308L414.297,401.354L413.24,400.345L412.144,397.407L412.081,394.832L414.366,385.88L413.976,384.275L413.033,383.508L407.259,383.471L404.654,384.711L398.666,396.612L396.772,397.683L392.998,397.588L390.147,399.311L388.26,399.616L387.04,397.713L386.083,393.433L384.446,392.068L376.102,399.244L370.514,400.971L365.689,401.161L358.512,404.134L357.105,403.612L356.353,401.158L355.495,400.382L351.777,400.735L350.486,400.033L350.574,397.686L352.827,391.668L351.511,385.123L350.813,384.6L347.171,384.456L345.47,383.284L343.385,384.324L340.561,381.426L342.289,379.552L345.259,379.013L347.405,374.738L353.091,370.921L352.657,368.152L353.457,363.808L354.445,361.304L356.563,359.172L356.868,358.091L356.826,356.528L356.077,355.36L357.16,352.92L355.304,348.554L354.979,346.872L355.594,345.755L358.703,343.258L361.221,342.746L366.588,339.208L373.677,336.67L381.043,325.739L383.268,324.098L388.557,324.244L392.703,322.351L399.44,322.84L404.384,319.439L406.961,316.107L411.694,313.771L415.837,313.768L419.617,315.297L426.253,314.789L433.114,316.373L437.347,318.902L442.187,323.055L443.548,323.288L451.471,318.86L454.858,319.116L457.042,318.104L457.723,317.155L457.589,316.011L455.047,313.9L454.797,312.764L455.403,310.433L456.618,309.827L458.828,310.167L462.67,309.438L464.222,307.194L465.39,306.56L467.421,306.956L471.594,311.15L473.941,310.539L477.682,311.008L481.043,309.072L482.832,305.408L483.93,304.59L485.946,304.98L489.607,303.447L497.244,303.826L500.137,300.976L502.86,301.295L506.056,298.447L509.003,297.337L516.783,297.494L518.377,299.054L520.63,298.901L524.898,294.88L527.809,294.692L531.702,291.987L545.49,297.323L569.565,298.387L569.243,301.53L570.588,305.085L579.051,314.659L581.997,316.921L586.332,315.651L589.424,313.885L591.969,313.522L593.798,312.074L595.696,311.939L603.027,319.653L606.089,317.013L612.477,313.15Z",
+      "operatorCount": 0,
+      "municipalities": {},
+      "operators": []
+    },
+    {
+      "id": "VE-Z",
+      "name": "Amazonas",
+      "displayName": "Amazonas",
+      "path": "M451.04,459.855L449,457.636L447.188,456.711L445.391,456.837L444.553,458.085L445.012,460.62L447.929,462.503L451.242,469.122L455.627,473.832L459.439,476.79L463.781,478.934L468.548,484.035L468.75,487.173L466.871,490.963L468.024,497.564L467.764,502.585L472.365,509.549L476.629,518.699L476.054,523.076L474.259,526.752L474.646,528.292L483.169,529.973L493.3,529.747L501.519,530.585L501.214,536.343L499.675,540.968L493.765,541.874L491.58,542.866L485.062,547.832L479.648,547.859L476.729,548.501L475.092,549.711L474.425,551.032L473.68,559.264L472.876,561.702L471.43,563.455L464.671,568.627L462.649,571.807L461.207,571.671L461.003,570.77L462.19,566.642L460.443,566.232L454.849,569.694L452.763,573.167L447.781,576.461L443.515,575.546L441.229,577.559L438.512,578.309L436.507,579.79L436.308,580.695L431.813,581.209L430.892,583.047L430.152,587.958L429.205,589.2L424.321,589.733L421.457,593.421L420.911,596.369L419.442,598.394L417.608,599.63L415.845,600L414.17,598.341L414.087,596.466L416.218,593.429L416.795,590.668L415.169,587.856L413.27,586.782L407.867,587.219L402.111,590.31L398.872,593.797L394.737,594.954L392.566,596.782L389.641,595.523L386.638,596.202L384.233,595.669L363.428,577.447L362.411,574.832L363.094,572.433L361.159,569.493L361.124,566.461L359.528,563.378L359.264,559.997L355.078,549.256L353.295,547.21L354.139,544.926L354.003,542.794L351.516,540.766L349.965,536.374L349.949,535.648L351.677,533.603L351.049,531.322L345.71,528.162L345.113,526.75L339.987,522.157L338.831,520.258L335.869,519.637L335.133,516.289L333.862,514.819L331.351,515.098L328.967,513.69L326.123,514.272L324.84,515.752L324.866,513.057L325.521,511.955L340.723,497.869L342.941,496.967L346.338,492.342L346.528,490.696L342.622,487.592L339.967,480.67L338.849,479.178L337.369,478.484L335.112,478.666L333.659,477.445L333.161,474.577L331.215,470.871L330.162,465.099L327.582,461.233L326.846,457.466L327.851,454.218L327.046,452.32L327.312,451.133L326.509,450.57L325.897,448.669L324.088,447.043L324.87,445.72L325.244,440.843L326.141,438.717L326.509,434.891L326.003,432.745L327.312,426.092L325.993,423.838L326.509,421.225L325.322,416.852L325.679,415.19L328.119,412.41L328.924,412.41L333.059,409.498L334.346,406.719L333.492,405.773L332.978,402.67L333.919,397.593L339.424,391.282L341.892,389.931L341.652,387.548L339.189,384.541L339.355,382.472L340.561,381.426L343.385,384.324L345.47,383.284L347.69,384.603L351.278,384.833L352.626,388.677L352.827,391.668L350.574,397.686L350.486,400.033L351.777,400.735L355.495,400.382L356.353,401.158L357.105,403.612L358.512,404.134L365.689,401.161L370.514,400.971L376.102,399.244L384.446,392.068L386.083,393.433L387.04,397.713L388.26,399.616L390.147,399.311L392.998,397.588L396.772,397.683L398.666,396.612L404.654,384.711L407.259,383.471L413.033,383.508L413.976,384.275L414.366,385.88L412.081,394.832L412.144,397.407L413.24,400.345L414.297,401.354L415.487,401.308L418.503,398.345L419.982,397.962L426.731,398.011L428.356,398.619L428.285,400.161L426.786,402.446L427.68,404.367L431.859,407.814L431.512,409.905L429.97,411.447L432.463,413.645L432.572,414.553L430.936,416.993L426.397,417.661L426.088,419.666L428.453,422.909L429.95,428.602L433.847,436.521L439.475,443.39L448.908,444.872L450.266,446.029L451.873,455.04Z",
+      "operatorCount": 2,
+      "municipalities": {
+        "Atures": 2
+      },
+      "operators": [
+        {
+          "cedula": 8478871,
+          "nombre": "NANCY DEL VALLE GUZMÁN MARÍN",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Atures",
+          "parroquia": "Luis Alberto Gómez",
+          "edad": 60,
+          "sexo": "F",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Licenciatura en Educación. Mención Ciencias Sociales"
+        },
+        {
+          "cedula": 19352424,
+          "nombre": "WENDY STEFAN QUERALES LARGO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Atures",
+          "parroquia": "Luis Alberto Gómez",
+          "edad": 37,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller Integral"
+        }
+      ]
+    },
+    {
+      "id": "VE-V",
+      "name": "Zulia",
+      "displayName": "Zulia",
+      "path": "M187.082,155.97L188.267,156.003L187.624,157.71L187.931,158.444L186.538,158.691L186.274,159.682L181.203,161.637L174.619,162.644L165.717,165.191L163.364,166.398L162.986,169.606L164.198,174.848L167.44,181.419L170.868,185.855L176.506,189.518L176.577,190.079L174.427,190.6L174.585,189.973L173.726,189.093L171.874,188.677L170.912,189.505L172.996,191.811L173.202,194.982L174.633,198.035L178.48,201.29L177.137,204.622L177.327,206.864L176.33,209.401L176.385,211.98L171.47,215.3L165.836,224.566L163.028,225.906L160.092,232.941L156.918,237.075L158.261,239.927L161.853,243.914L163.902,248.445L163.194,248.049L162.288,245.697L162.288,246.515L161.485,247.061L162.68,247.858L163.364,249.374L163.089,250.158L162.452,250.189L161.216,249.237L161.999,251.714L164.313,250.08L165,250.873L165,250.08L167.933,252.506L165.715,252.698L165.202,253.574L165.538,254.685L166.076,253.05L168.358,253.05L171.219,255.482L172.255,254.685L172.511,256.145L171.717,256.342L172.04,258.486L169.029,260.721L171.854,260.549L171.67,261.399L172.255,261.809L171.518,261.879L171.574,262.417L172.255,263.442L171.179,264.804L173.276,266.96L177.46,268.332L180.899,268.066L190.39,264.636L192.554,262.566L195.353,264.925L195.304,268.683L193.791,270.314L192.276,268.089L189.493,269.475L174.654,281.213L172.589,285.255L171.31,284.739L169.362,285.159L169.336,283.313L167.444,283.23L164.267,285.11L162.053,288.641L160.151,290.443L156.703,291.637L155.016,291.588L152.553,293.918L151.851,288.832L150.749,288.261L148.358,290.098L147.925,291.748L147.291,292.612L146.542,292.486L145.461,294.584L143.861,293.739L135.239,283.891L131.004,267.629L130.338,266.852L130.691,265.478L129.289,264.372L124.229,265.874L123.525,264.9L123.255,261.39L122.088,258.247L121.185,258.278L114.121,263.107L107.607,263.456L107.095,262.267L109.709,259.82L115.45,249.168L118.235,246.976L123.039,237.63L123.35,236.596L122.59,234.094L122.954,230.152L125.003,223.128L125.818,212.824L128.646,207.715L132.133,203.142L134.942,195.903L139.132,191.826L142.168,185.276L148.382,183.619L151.304,183.908L161.499,165.059L162.949,163.56L183.469,158.195ZM198.694,245.404L199.772,240.496L197.761,237.637L197.601,236.654L198.286,236.454L198.302,235.806L194.76,231.29L193.01,230.903L190.615,224.059L186.836,221.339L184.526,216.413L182.687,214.068L182.807,210.054L179.845,207.543L180.007,206.219L181.477,205.017L180.188,203.076L180.247,200.026L178.211,197.761L181.088,197.624L183.609,198.282L184.027,197.373L183.316,195.251L184.925,193.36L183.54,193.308L181.437,191.72L183.121,191.123L190.057,190.461L191.473,193.79L197.986,199.862L197.964,204.594L199.591,206.556L200.568,209.385L202.829,211.728L204.962,212.424L209.857,211.995L211.176,213.535L211.811,216.86L214.602,217.948L212.529,222.37L208.036,225.282L206.732,227.331L206.863,228.389L208.751,230.77L214.481,233.943L215.458,236.521L215.263,238.437L213.153,240.242L211.47,239.645L210.532,241.451L210.715,242.41L209.253,242.961L206.999,246.01Z",
+      "operatorCount": 5,
+      "municipalities": {
+        "Colón": 1,
+        "Sucre": 3,
+        "Santa Rita": 1
+      },
+      "operators": [
+        {
+          "cedula": 7899309,
+          "nombre": "JULIA DEL CARMEN DE LA CRUZ ARÉVALO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Colón",
+          "parroquia": "Santa Bárbara",
+          "edad": 57,
+          "sexo": "F",
+          "nivelAcademico": "ESPECIALIDAD",
+          "profesion": "Especialización en Planificación Educacional"
+        },
+        {
+          "cedula": 14053121,
+          "nombre": "YSABEL ALEXANDRA PORRA CHOURIO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Sucre",
+          "parroquia": "Romulo Gallegos",
+          "edad": 49,
+          "sexo": "F",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Licenciatura en Educación"
+        },
+        {
+          "cedula": 15590902,
+          "nombre": "ROSIRIS ELIANNY CARUCI RODRÍGUEZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Sucre",
+          "parroquia": "El Batey",
+          "edad": 46,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller Integral"
+        },
+        {
+          "cedula": 15973030,
+          "nombre": "ERICK ALBERTO FUENMAYOR CHACÓN",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Santa Rita",
+          "parroquia": "Santa Rita",
+          "edad": 43,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        },
+        {
+          "cedula": 19043165,
+          "nombre": "SERGIO IRENEO AGUIRRE PINEDA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Sucre",
+          "parroquia": "Heras",
+          "edad": 36,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Licenciatura en Educación"
+        }
+      ]
+    },
+    {
+      "id": "VE-S",
+      "name": "Táchira",
+      "displayName": "Táchira",
+      "path": "M148.039,308.103L148.677,307.193L148.602,305.666L146.447,300.483L146.595,296.337L145.461,294.584L146.542,292.486L147.291,292.612L147.925,291.748L148.358,290.098L150.749,288.261L151.686,288.447L152.553,293.918L155.016,291.588L156.703,291.637L160.151,290.443L162.053,288.641L163.977,285.486L168.769,286.326L169.574,287.106L170.77,291.153L168.513,294.079L169.255,296.312L168.95,297.46L166.278,300.571L165.859,302.822L168.84,303.02L173.166,307.845L174.37,307.365L177.985,307.519L181.177,309.58L181.483,310.989L180.606,312.579L181.241,316.548L180.191,319.394L181.827,321.206L181.839,324.495L186.282,328.692L188.656,329.662L186.962,330.194L173.928,327.689L168.628,328.221L167.876,328.609L168.119,330.016L166.728,332.761L161.383,335.067L159.104,334.605L154.394,331.638L149.233,331.693L146.239,333.316L145.5,333.066L142.979,330.263L143.58,326.838L142.796,323.719L144.038,316.435L143.767,314.024L142.487,312.277L144.89,310.171L145.796,308.055Z",
+      "operatorCount": 0,
+      "municipalities": {},
+      "operators": []
+    },
+    {
+      "id": "VE-C",
+      "name": "Apure",
+      "displayName": "Apure",
+      "path": "M153.699,334.333L146.239,333.316L149.233,331.693L154.394,331.638L159.104,334.605L162.193,334.984L166.486,332.978L168.504,329.654L171.694,330.508L172.989,331.929L175.173,332.338L175.99,332.331L176.463,331.495L177.264,332.094L178.998,331.527L180.658,332.094L183.274,331.079L190.62,331.823L191.361,331.45L193.709,333.448L198.737,334.458L203.245,337.264L206.101,338.077L209.203,336.993L212.447,337.979L215.674,337.806L216.748,336.452L218.94,336.243L220.801,334.261L221.929,334.332L222.385,332.699L226.001,331.612L227.867,328.976L229.127,325.528L234.308,325.082L235.239,324.514L237.085,321.282L239.945,319.554L243.029,319.415L245.881,317.262L246.977,317.435L250.968,315.974L257.131,311.74L262.485,306.948L272.409,306.987L274.582,308.141L275.4,309.522L277.695,310.582L281.001,309.819L281.993,312.505L286.777,313.667L290.46,313.137L294.236,311.012L300.086,312.234L302.417,310.615L304.431,310.138L305.728,311.149L308.33,310.949L309.078,311.522L317.033,307.87L320.965,307.623L323.703,308.733L324.579,308.412L334.7,309.818L337.025,311.284L337.343,313.091L340.096,313.615L342.94,313.319L345.219,314.201L346.532,316.033L349.602,317.797L353.017,318.84L356.28,317.839L357.895,318.948L360.448,318.199L367.766,319.52L376.37,317.928L376.391,317.298L377.1,317.089L379.893,319.873L382.321,320.602L383.981,320.288L385.083,322.201L384.85,323.756L383.268,324.098L381.043,325.739L373.677,336.67L366.588,339.208L361.221,342.746L358.703,343.258L355.594,345.755L354.979,346.872L355.304,348.554L357.16,352.92L356.077,355.36L356.826,356.528L356.868,358.091L356.563,359.172L354.445,361.304L353.457,363.808L352.657,368.152L353.353,370.251L351.815,372.079L347.405,374.738L345.831,378.288L344.513,379.445L342.289,379.552L340.771,381.235L339.217,381.093L335.932,378.536L325.97,376.669L324.36,377.996L322.937,378.183L322.156,379.79L320.038,380.451L313.408,380.216L307.206,382.068L301.507,381.355L296.169,382.344L294.179,383.695L287.391,381.778L284.044,381.778L277.427,380.451L270.15,385.879L266.795,382.884L262.379,384.234L235.409,350.563L232.82,350.364L229.177,351.974L227.939,351.921L222.723,349.17L220.4,349.09L217.729,346.073L215.342,346.563L212.823,345.514L205.261,346.759L202.673,349.101L200.708,349.836L195.799,349.787L193.911,350.958L190.312,350.094L189.643,348.453L184.868,348.246L182.752,348.982L181.091,348.103L177.755,348.281L176.744,347.409L175.411,347.359L174.654,347.722L174.809,348.375L170.7,348.328L170.554,349.176L166.492,350.006L162.054,348.965L158.624,346.835L155.353,340.721L155.268,336.229Z",
+      "operatorCount": 4,
+      "municipalities": {
+        "Achaguas": 1,
+        "Muñoz": 1,
+        "San Fernando": 1,
+        "Biruaca": 1
+      },
+      "operators": [
+        {
+          "cedula": 11243578,
+          "nombre": "RAFAEL ALAN CASTILLO CONTRERAS",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Achaguas",
+          "parroquia": "Mucuritas",
+          "edad": 55,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Humanidades"
+        },
+        {
+          "cedula": 18289329,
+          "nombre": "JOSÉ LUIS OVIEDO ORELLANA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Muñoz",
+          "parroquia": "Mantecal",
+          "edad": 37,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Ciencias"
+        },
+        {
+          "cedula": 23059195,
+          "nombre": "RAFAEL IGNACIO NIEVES FAGÚNDEZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "San Fernando",
+          "parroquia": "San Fernando",
+          "edad": 32,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Ingeniero Civil"
+        },
+        {
+          "cedula": 25775212,
+          "nombre": "CARMEN GABRIELA PÉREZ CRUZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Biruaca",
+          "parroquia": "Biruaca",
+          "edad": 30,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Educación Media General en Ciencias Básicas y Tecnología"
+        }
+      ]
+    },
+    {
+      "id": "VE-L",
+      "name": "Mérida",
+      "displayName": "Mérida",
+      "path": "M192.554,262.566L193.031,260.767L195.182,258.52L198.286,257.523L199.846,255.969L202.19,256.019L204.388,257.948L206.538,264.479L209.45,266.384L209.939,267.357L211.714,267.886L212.856,270.352L213.848,270.58L217.673,268.415L219.174,269.805L219.457,271.795L217.774,275.725L213.467,277.04L211.864,279.384L210.256,278.718L207.536,280.948L204.689,284.981L203.907,284.776L202.344,286.261L201.921,289.654L200.075,291.298L199.642,292.928L198.101,294.837L198.589,297.561L199.912,298.709L200.686,301.062L198.793,305.422L191.167,312.862L184.248,317.648L182.97,318.948L183.185,321.612L182.128,322.324L181.619,320.728L180.191,319.394L181.241,316.548L180.606,312.579L181.483,310.989L181.177,309.58L177.985,307.519L174.37,307.365L173.166,307.845L168.84,303.02L165.859,302.822L166.278,300.571L168.95,297.46L169.255,296.312L168.513,294.079L170.817,290.677L169.005,286.456L163.977,285.486L168.368,283.029L169.575,283.621L169.362,285.159L171.31,284.739L172.589,285.255L174.654,281.213L189.493,269.475L192.276,268.089L193.497,270.166L194.963,269.573L195.353,264.925Z",
+      "operatorCount": 2,
+      "municipalities": {
+        "Caracciolo Parra Olmedo": 1,
+        "Tulio Febres Cordero": 1
+      },
+      "operators": [
+        {
+          "cedula": 10240955,
+          "nombre": "CARLOS AOGUSTO CHOURIO CHOURIO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Caracciolo Parra Olmedo",
+          "parroquia": "Florencio Ramírez",
+          "edad": 55,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Ciencias"
+        },
+        {
+          "cedula": 13547176,
+          "nombre": "CAROL VIOLETA CHOURIO PIRELA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Tulio Febres Cordero",
+          "parroquia": "Independencia",
+          "edad": 49,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        }
+      ]
+    },
+    {
+      "id": "VE-T",
+      "name": "Trujillo",
+      "displayName": "Trujillo",
+      "path": "M198.843,256.55L197.579,248.329L198.694,245.404L206.999,246.01L209.253,242.961L210.715,242.41L210.532,241.451L211.47,239.645L213.153,240.242L214.677,239.031L215.458,236.521L214.481,233.943L214.448,231.893L216.548,228.868L218.209,228.918L218.404,230.555L220.162,232.984L222.604,234.273L226.658,233.083L227.536,234.669L229.49,235.166L230.759,237.048L232.099,236.287L234.167,238.703L236.788,239.081L239.868,242.15L239.2,243.367L237.552,243.462L235.188,245.67L236.192,249.404L238.046,250.381L239.194,252.866L237.951,255.817L235.069,259.736L236.859,260.485L237.92,259.965L238.156,260.581L238.024,264.294L235.609,269.217L233.314,269.703L229.818,269.085L223.704,269.122L220.976,270.046L219.457,271.795L219.174,269.805L217.673,268.415L213.144,270.612L211.714,267.886L209.939,267.357L209.45,266.384L206.538,264.479L203.997,257.553L202.19,256.019L199.846,255.969Z",
+      "operatorCount": 1,
+      "municipalities": {
+        "La Ceiba": 1
+      },
+      "operators": [
+        {
+          "cedula": 20778956,
+          "nombre": "ENYERLIS CHIQUINQUIRÁ ESTRADA ARENA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "La Ceiba",
+          "parroquia": "La Ceiba",
+          "edad": 38,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        }
+      ]
+    },
+    {
+      "id": "VE-I",
+      "name": "Falcón",
+      "displayName": "Falcón",
+      "path": "M190.057,190.461L206.277,182.249L213.519,180.174L215.717,180.528L220.274,179.968L221.603,178.53L220.529,179.627L220.404,178.636L221.355,178.285L223.42,178.586L229.163,175.799L231.401,176.019L234.236,174.019L234.78,172.915L234.748,171.893L234.024,171.55L234.415,171.268L236.582,172.891L237.383,171.775L239.054,172.435L238.371,169.802L235.776,169.163L236.703,168.815L234.134,167.31L239.533,169.497L241.45,169.946L242.617,169.269L243.407,169.538L246.605,172.622L247.806,173.049L249.933,171.344L250.577,169.927L247.729,162.285L247.375,163.025L246.411,162.285L243.335,163.7L242.456,163.77L242.65,163.105L233.154,165.939L231.448,164.928L231.32,163.929L232.136,162.545L231.32,160.087L232.395,160.637L232.39,159.518L231.681,158.478L231.027,159.541L229.298,155.708L228.611,155.675L229.336,152.398L232.102,147.687L232.395,145.466L234.816,145.225L237.951,142.67L239.794,141.968L243.428,143.55L246.97,149.36L248.022,157.867L250.439,164.751L253.637,170.153L255.299,171.357L256.672,171.546L260.159,169.712L265.012,170.302L269.194,168.616L275.542,170.409L277.397,171.928L285.954,172.173L289.494,175.116L293.378,176.168L294.969,177.952L298.795,180.121L300.151,181.822L302.744,182.936L303.306,182.089L303.882,184.977L308.219,193.104L307.871,193.611L305.99,192.538L304.356,193.36L308.838,193.999L309.776,194.728L308.7,195.804L306.325,196.157L306.114,196.946L306.648,200.326L308.403,204.768L298.74,204.594L295.907,203.003L295.712,201.314L294.247,200.816L288.911,200.835L287.335,202.687L284.336,203.755L282.817,202.242L274.864,202.885L263.069,201.658L260.217,202.33L258.698,200.453L253.712,199.546L248.758,202.077L247.524,202.065L248.121,201.32L247.423,200.922L245.74,202.215L241.699,202.516L238.634,204.326L234.296,204.069L230.767,207.804L227.498,207.816L224.184,210.788L221.124,212.243L219.429,215.619L216.369,216.481L214.602,217.948L211.811,216.86L211.176,213.535L209.857,211.995L204.962,212.424L202.829,211.728L200.568,209.385L199.591,206.556L197.964,204.594L197.986,199.862L191.473,193.79Z",
+      "operatorCount": 1,
+      "municipalities": {
+        "Miranda": 1
+      },
+      "operators": [
+        {
+          "cedula": 17923050,
+          "nombre": "CARELIS MARÍA ÁLVAREZ SANGRONIS",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Miranda",
+          "parroquia": "San Gabriel",
+          "edad": 39,
+          "sexo": "F",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Licenciatura en Contaduría Pública"
+        }
+      ]
+    },
+    {
+      "id": "VE-U",
+      "name": "Yaracuy",
+      "displayName": "Yaracuy",
+      "path": "M308.403,204.768L309.269,206.333L308.09,207.796L306.805,208.562L304.905,208.196L303.847,210.4L303.668,215.813L304.946,219.703L302.524,223.219L302.84,227.176L304.597,230.527L298.615,234.288L297.812,233.948L298.389,233.204L296.272,232.042L296.267,229.928L294.39,229.715L292.826,231.375L287.53,231.692L285.663,235.72L284.355,236.077L280.708,235.829L282.803,232.724L281.452,230.12L280.653,229.736L277.001,231.801L276.705,234.682L275.689,234.841L274.355,232.789L274.265,229.916L270.883,225.729L270.486,224.252L271.194,223.263L273.456,225.012L275.19,222.029L279.242,220.201L278.763,213.218L277.449,213.37L276.996,212.622L279.041,207.948L281.233,207.864L283.721,206.218L284.336,203.755L287.335,202.687L288.911,200.835L295.028,201.015L295.712,201.314L295.907,203.003L298.74,204.594Z",
+      "operatorCount": 6,
+      "municipalities": {
+        "Cocorote": 1,
+        "Veroes": 3,
+        "San Felipe": 2
+      },
+      "operators": [
+        {
+          "cedula": 9373560,
+          "nombre": "RAMÓN CELESTINO DÍAZ GARCÍA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Cocorote",
+          "parroquia": "Cocorote",
+          "edad": 57,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Abogado"
+        },
+        {
+          "cedula": 11273432,
+          "nombre": "MERXIS COROMOTO SÁNCHEZ MONTERO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Veroes",
+          "parroquia": "Farriar",
+          "edad": 54,
+          "sexo": "F",
+          "nivelAcademico": "MAGISTER",
+          "profesion": "Magíster en Biotecnología Alimentaria"
+        },
+        {
+          "cedula": 11277384,
+          "nombre": "ELISA GUTIÉRREZ LÓPEZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Veroes",
+          "parroquia": "Farriar",
+          "edad": 54,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        },
+        {
+          "cedula": 12282340,
+          "nombre": "EYALIZ JOSEFINA ORTEGA CASTILLO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "San Felipe",
+          "parroquia": "San Felipe",
+          "edad": 52,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        },
+        {
+          "cedula": 12937003,
+          "nombre": "YONI IVÁN OLIVEROS MARTÍNEZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "San Felipe",
+          "parroquia": "San Felipe",
+          "edad": 53,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Abogado"
+        },
+        {
+          "cedula": 19818643,
+          "nombre": "SANDY RAFAEL ALMARIO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Veroes",
+          "parroquia": "Farriar",
+          "edad": 36,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Ingeniero Agrónomo"
+        }
+      ]
+    },
+    {
+      "id": "VE-G",
+      "name": "Carabobo",
+      "displayName": "Carabobo",
+      "path": "M309.269,206.333L310.927,208.649L314.076,210.63L318.918,210.601L321.484,211.482L324.157,211.081L324.12,214.962L326.303,217.243L328.707,216.395L332.077,217.165L332.78,218.146L332.152,220.361L332.764,225.976L331.471,227.6L331.361,229.156L332.462,228.816L336.748,230.369L337.7,233.852L336.218,233.449L335.016,235.713L333.833,235.258L331.011,236.426L330.801,234.803L329.535,234.403L328.403,233.074L327.072,232.907L326.487,233.421L327.48,237.036L324.395,237.331L319.649,236.711L319.06,235.962L319.701,234.974L319.356,234.549L316.336,235.85L309.665,230.648L309.199,229.272L311.099,227.616L309.665,224.987L307.263,227.34L305.839,230.003L304.597,230.527L303.808,229.857L302.84,227.176L302.524,223.219L304.946,219.703L303.668,215.813L303.847,210.4L304.905,208.196L306.992,208.525Z",
+      "operatorCount": 1,
+      "municipalities": {
+        "Puerto Cabello": 1
+      },
+      "operators": [
+        {
+          "cedula": 15225657,
+          "nombre": "ÁNGELA JOSELYN SUPERVILLE MIJARES",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Puerto Cabello",
+          "parroquia": "Borburata",
+          "edad": 45,
+          "sexo": "F",
+          "nivelAcademico": "MAGISTER",
+          "profesion": "Magíster en Educación: Mención Enseñanza de la Geografía"
+        }
+      ]
+    },
+    {
+      "id": "VE-D",
+      "name": "Aragua",
+      "displayName": "Aragua",
+      "path": "M324.317,211.689L327.922,210.3L343.101,208.416L342.574,209.527L345.152,214.304L347.125,213.016L349.124,212.917L351.655,215.946L351.177,217.618L354.235,219.544L353.234,223.955L353.827,225.675L355.04,226.819L356.875,228.006L358.397,227.136L359.353,227.269L361.514,229.73L363.291,230.136L366.718,229.619L368.42,230.484L373.747,231.469L374.887,238.165L373.354,239.92L373.42,241.27L376.488,245.191L375.264,248.982L375.957,251.247L375.014,253.998L371.113,254.335L363.168,251.687L358.618,251.99L359.279,249.716L362.486,248.629L363.376,247.623L364.183,245.916L364.07,243.215L360.537,242.437L359.055,240.112L354.515,238.136L351.378,233.331L348.133,233.679L347.278,232.87L345.113,233.068L341.67,230.632L337.5,232.067L336.252,230.055L332.462,228.816L331.473,229.275L331.471,227.6L332.764,225.976L332.152,220.361L332.694,217.894L331.714,216.951L328.95,216.408L326.303,217.243L324.12,214.962Z",
+      "operatorCount": 1,
+      "municipalities": {
+        "Ocumare de la Costa de Oro": 1
+      },
+      "operators": [
+        {
+          "cedula": 17139897,
+          "nombre": "YRAIDA JOSEFINA MATOS DÍAZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Ocumare de la Costa de Oro",
+          "parroquia": "Costa de Oro (comunidad cata)",
+          "edad": 41,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        }
+      ]
+    },
+    {
+      "id": "VE-X",
+      "name": "Vargas",
+      "displayName": "La Guaira",
+      "path": "M343.101,208.416L351.823,207.9L358.026,205.688L376.547,204.828L384.714,205.688L385.515,204.958L385.736,206.425L385.593,208.528L385.065,208.912L383.914,208.326L380.553,208.655L375.116,207.72L374.148,208.373L360.517,208.168L358.244,207.134L357.891,208.366L356.418,209.121L356.414,210.989L349.851,213.473L349.124,212.917L347.125,213.016L345.152,214.304L342.574,209.527Z",
+      "operatorCount": 3,
+      "municipalities": {
+        "Vargas": 3
+      },
+      "operators": [
+        {
+          "cedula": 6889998,
+          "nombre": "PETRA ELEUTERIA BOLÍVAR FLORES",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Vargas",
+          "parroquia": "Caruao",
+          "edad": 63,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller Integral"
+        },
+        {
+          "cedula": 7990957,
+          "nombre": "LEONOR AMARILIS BUSTAMANTE OROPEZA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Vargas",
+          "parroquia": "Macuto",
+          "edad": 59,
+          "sexo": "F",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Licenciatura en Administración y Gestión"
+        },
+        {
+          "cedula": 11637245,
+          "nombre": "GLORIA AYARI UGUETO GUEVARA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Vargas",
+          "parroquia": "Carlos Soublette",
+          "edad": 54,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Humanidades"
+        }
+      ]
+    },
+    {
+      "id": "VE-M",
+      "name": "Miranda",
+      "displayName": "Miranda",
+      "path": "M385.515,204.958L386.241,204.268L387.948,204.193L393.746,206.762L396.022,207.079L394.857,208.183L393.065,208.421L393.045,209.859L399.707,216.075L402.492,217.757L400.61,217.212L400.049,217.757L400.882,218.85L401.906,218.619L405.638,221.112L408.961,221.331L403.859,218.883L403.027,217.757L414.359,222.719L420.443,224.398L419.94,226.32L412.279,231.239L411.05,230.951L407.868,232.556L403.29,231.853L398.992,232.969L395.42,231.869L393.459,232.215L392.633,231.463L390.359,232.178L382.413,229.352L380.145,230.849L377.088,231.392L371.655,231.199L366.718,229.619L363.291,230.136L361.271,229.606L359.353,227.269L358.397,227.136L356.875,228.006L353.827,225.675L353.236,223.651L354.235,219.544L351.177,217.618L351.655,215.946L349.851,213.473L352.486,212.511L356.487,214.36L360.728,213.283L362.547,213.492L363.193,210.884L364.245,209.679L363.478,208.258L363.894,208.025L374.148,208.373L375.116,207.72L380.553,208.655L383.914,208.326L385.065,208.912L385.593,208.528Z",
+      "operatorCount": 8,
+      "municipalities": {
+        "Andrés Bello": 2,
+        "Ambrosio Plaza": 1,
+        "Simón Bolívar": 2,
+        "Cristobal Rojas": 1,
+        "Acevedo": 1,
+        "Independencia": 1
+      },
+      "operators": [
+        {
+          "cedula": 6813833,
+          "nombre": "LUIS MANUEL PERDOMO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Andrés Bello",
+          "parroquia": "San José de Barlovento",
+          "edad": 64,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Licenciatura en Comunicación Social"
+        },
+        {
+          "cedula": 8762693,
+          "nombre": "FRANKLIM JOSÉ RAMOS VERENZUELA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Ambrosio Plaza",
+          "parroquia": "Guarenas",
+          "edad": 59,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Ciencias"
+        },
+        {
+          "cedula": 10633709,
+          "nombre": "NÉSVIER NESLU PESCOSO ZERPA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Simón Bolívar",
+          "parroquia": "San Francisco de Yare",
+          "edad": 54,
+          "sexo": "F",
+          "nivelAcademico": "TECNICO SUPERIOR",
+          "profesion": "TSU en Educación Inicial"
+        },
+        {
+          "cedula": 15474234,
+          "nombre": "EULALIA ESTELA SÁNCHEZ PIÑANGO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Simón Bolívar",
+          "parroquia": "San Francisco de Yare",
+          "edad": 46,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        },
+        {
+          "cedula": 16108221,
+          "nombre": "ARELIS ELENA LLINAS TURIZO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Cristobal Rojas",
+          "parroquia": "Charallave",
+          "edad": 43,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Ciencias"
+        },
+        {
+          "cedula": 16910629,
+          "nombre": "YRMA ANDREINA OSES MATA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Andrés Bello",
+          "parroquia": "San José de Barlovento",
+          "edad": 43,
+          "sexo": "F",
+          "nivelAcademico": "TITULO SIN REGISTRO",
+          "profesion": "Profesora Especializada en Educacion Primaria"
+        },
+        {
+          "cedula": 18404108,
+          "nombre": "JHONATAN JOSÉ RODRÍGUEZ URBINA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Acevedo",
+          "parroquia": "Marizapa",
+          "edad": 41,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Licenciatura en Educación. Mención Desarrollo Cultural"
+        },
+        {
+          "cedula": 22039628,
+          "nombre": "MERCICHARLOT NETZALETH PESCOSO ZERPA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Independencia",
+          "parroquia": "Santa Teresa del Tuy",
+          "edad": 34,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Ciencias"
+        }
+      ]
+    },
+    {
+      "id": "VE-B",
+      "name": "Anzoátegui",
+      "displayName": "Anzoátegui",
+      "path": "M420.443,224.398L430.523,226.241L434.038,227.629L430.281,226.787L431.335,227.795L434.307,228.176L438.629,226.241L445.982,226.517L447.869,224.693L448.325,221.033L449.936,221.604L449.129,222.149L450.269,222.644L450.662,222.27L450.23,221.853L451.693,220.214L454.014,219.67L453.72,220.214L455.444,220.046L456.283,221.197L458.997,222.408L459.388,224.286L462.87,226.348L464.507,226.079L466.818,227.294L470.482,226.961L474.751,225.003L477.353,225.529L478.546,226.828L474.34,227.979L474.107,231.381L475.189,232.699L476.99,232.715L476.924,233.476L479.58,235.33L478.675,236.485L477.932,239.626L478.776,242.026L482.567,248.069L477.75,253.636L477.587,257.111L479.667,259.452L480.22,261.83L485.507,260.602L490.947,263.345L492.365,265.317L499.427,269.688L501.265,273.256L502.559,277.767L504.035,278.86L517.869,278.223L517.319,279.598L514.919,279.571L513.694,281.599L514.272,286.103L516.333,287.826L525.994,290.977L525.829,292.609L528.233,294.464L524.898,294.88L521.95,298.113L519.535,299.189L517.38,298.491L516.783,297.494L509.003,297.337L506.056,298.447L502.86,301.295L500.137,300.976L497.244,303.826L489.607,303.447L485.946,304.98L483.93,304.59L482.832,305.408L481.043,309.072L477.276,311.088L473.941,310.539L471.594,311.15L467.421,306.956L465.39,306.56L464.222,307.194L462.67,309.438L458.828,310.167L456.618,309.827L455.403,310.433L454.797,312.764L455.047,313.9L457.589,316.011L457.723,317.155L457.042,318.104L454.858,319.116L451.471,318.86L443.548,323.288L442.187,323.055L437.347,318.902L433.114,316.373L426.253,314.789L423.162,314.981L421.882,312.949L418.133,312.536L417.677,310.603L418.291,308.844L421.65,305.305L422.797,302.446L429.064,295.114L431.288,287.666L430.475,284.085L431.469,280.723L434.048,279.697L436.845,280.416L442.541,280.33L443.253,279.051L443.241,276.803L445.457,274.872L444.683,273.405L441.688,270.717L439.658,269.867L439.351,267.515L438.074,265.574L434.315,263.091L430.707,262.9L427.032,258.972L425.997,255.01L429.06,252.707L428.609,249.815L422.654,247.902L420.253,244.082L417.962,247.327L409.64,242.674L411.034,239.155L409.552,236.268L409.788,231.989L411.05,230.951L412.083,231.298L415.076,229.879L419.531,226.947Z",
+      "operatorCount": 3,
+      "municipalities": {
+        "Simón Bolívar": 1,
+        "Anaco": 1,
+        "Francisco de Miranda": 1
+      },
+      "operators": [
+        {
+          "cedula": 6872866,
+          "nombre": "RUBIZ JOSÉ MAZA HERNÁNDEZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Simón Bolívar",
+          "parroquia": "El carmen",
+          "edad": 62,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        },
+        {
+          "cedula": 11002013,
+          "nombre": "MARGARITA EUGENIA MATA MOYA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Anaco",
+          "parroquia": "Buena Vista",
+          "edad": 53,
+          "sexo": "F",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Abogada"
+        },
+        {
+          "cedula": 12437419,
+          "nombre": "DAVID GREGORIO MEDINA TAYUPO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Francisco de Miranda",
+          "parroquia": "Pariaguán",
+          "edad": 51,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Ingeniero en Producción Animal"
+        }
+      ]
+    },
+    {
+      "id": "VE-R",
+      "name": "Sucre",
+      "displayName": "Sucre",
+      "path": "M455.444,220.046L457.235,220.511L461.714,218.108L461.496,217.461L459.508,217.9L458.042,217.212L461.56,216.392L461.56,215.3L460.702,215.3L461.535,214.691L462.473,216.592L463.19,214.512L468.25,212.569L469.116,211.036L471.511,211.036L474.494,212.222L478.775,211.724L481.898,212.296L490.105,210.358L487.166,210.24L483.491,208.164L479.534,207.727L477.845,206.884L474.744,207.328L475.28,206.535L473.143,207.454L469.883,207.328L467.333,209.538L466.732,209.321L464.823,205.343L465.882,203.229L467.061,204.294L470.838,205.441L474.61,204.05L475.28,204.622L479.873,204.895L482.559,204.05L483.925,201.59L486.095,203.512L494.105,204.972L497.534,203.431L499.945,203.503L500.627,202.16L502.508,203.229L502.831,202.721L505.988,202.913L509.516,200.746L510.467,201.864L515.314,201.29L518.698,202.16L527.452,199.651L530.113,200.428L549.148,202.682L551.185,201.59L553.788,201.574L555.909,200.746L557.765,201.29L561.281,200.495L560.058,201.225L559.671,202.931L559.239,202.52L556.69,204.05L551.715,204.885L548.35,204.446L545.274,204.841L542.037,208.931L529.157,207.457L518.89,208.906L515.448,211.998L520.039,208.968L521.499,208.877L522.122,209.668L522.517,213.868L521.141,214.48L519.894,213.66L516.063,213.826L515.717,214.753L516.819,214.206L517.598,215.845L515.986,217.212L516.716,217.7L515.717,219.124L518.563,218.714L517.561,214.789L518.136,213.933L520.603,215.3L523.678,213.933L525.139,214.327L528.661,218.405L528.661,221.604L530.564,224.903L529.383,226.846L527.182,227.359L524.629,226.673L522.847,228.449L521.72,226.917L520.039,227.359L519.748,225.995L518.426,226.787L517.329,225.722L516.294,226.283L514.674,225.899L513.374,222.646L511.844,222.776L511.438,221.39L508.321,223.43L507.195,222.383L500.931,220.351L500.029,219.82L499.835,218.79L497.644,217.553L494.931,218.871L494.039,220.952L487.146,221.923L484.371,225.024L478.546,226.828L477.353,225.529L475.064,224.969L470.482,226.961L466.818,227.294L464.507,226.079L462.87,226.348L459.388,224.286L458.997,222.408L456.283,221.197ZM524.485,210.423L529.666,216.343L529.257,217.739L527.27,215.259L524.23,212.935Z",
+      "operatorCount": 2,
+      "municipalities": {
+        "Andrés Mata": 1,
+        "Libertador": 1
+      },
+      "operators": [
+        {
+          "cedula": 25995616,
+          "nombre": "NICELYS NOEMÍ DEL CARMEN NOGUERA RIGUAL",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Andrés Mata",
+          "parroquia": "Santa Catalina",
+          "edad": 31,
+          "sexo": "F",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Ingeniero Naval"
+        },
+        {
+          "cedula": 32198099,
+          "nombre": "ANDERSON DANIEL FIGUEROA NÚÑEZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Libertador",
+          "parroquia": "Tunapuy",
+          "edad": 18,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Ciencias"
+        }
+      ]
+    },
+    {
+      "id": "VE-N",
+      "name": "Monagas",
+      "displayName": "Monagas",
+      "path": "M514.152,225.337L516.575,227.369L517.723,226.61L518.391,229.799L518.991,229.811L518.56,227.532L519.233,226.787L519.367,228.039L519.982,228.371L521.651,227.906L523.824,228.97L523.699,230.289L524.63,229.391L524.333,227.342L525.146,227.086L527.019,228.195L529.109,227.698L530.881,226.468L531.376,224.805L530.564,222.286L530.841,221.16L532.399,221.16L534.853,222.771L538.32,230.893L537.84,232.813L539.597,233.666L542.676,239.382L542.482,242.017L537.663,249.074L538.264,250.214L539.633,250.83L540.487,254.091L542.604,255.777L543.227,262.182L542.573,264.417L544.738,264.763L546.963,267.134L549.499,266.129L550.15,267.768L551.727,267.157L553.044,267.479L551.902,272.214L553.028,273.796L554.874,274.18L554.917,275.441L552.687,278.012L552.256,280.592L548.061,282.741L545.791,286.02L542.498,286.363L540.801,288.1L538.066,289.369L534.942,289.146L528.233,294.464L525.829,292.609L525.994,290.977L516.333,287.826L514.272,286.103L513.694,281.599L514.919,279.571L517.319,279.598L517.869,278.223L504.035,278.86L502.559,277.767L501.265,273.256L499.427,269.688L492.365,265.317L490.947,263.345L485.97,260.782L482.841,260.849L480.366,261.932L479.667,259.452L477.587,257.111L477.846,253.41L482.567,248.069L478.776,242.026L477.932,239.626L478.675,236.485L479.58,235.33L476.924,233.476L476.99,232.715L475.189,232.699L474.388,232.039L474.34,227.979L477.198,227.588L484.371,225.024L487.146,221.923L494.039,220.952L494.931,218.871L497.644,217.553L499.835,218.79L500.029,219.82L500.931,220.351L507.195,222.383L508.321,223.43L511.438,221.39L511.844,222.776L513.374,222.646ZM542.188,233.302L542.767,234.696L542.399,236.352L541.47,235.229L541.493,233.575ZM538.054,228.268L539.828,230.394L539.127,231.225Z",
+      "operatorCount": 4,
+      "municipalities": {
+        "Maturin": 1,
+        "Caripe": 1,
+        "Uracoa": 1,
+        "Bolívar": 1
+      },
+      "operators": [
+        {
+          "cedula": 11336150,
+          "nombre": "JAVIER JOSÉ ARISMENDI DÍAZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Maturin",
+          "parroquia": "Alto de los Godos",
+          "edad": 54,
+          "sexo": "M",
+          "nivelAcademico": "MAGISTER",
+          "profesion": "Magister en Ciencias, mención Planificación y Evaluación de la Educación"
+        },
+        {
+          "cedula": 14439778,
+          "nombre": "JESÚS GERMAÍN CALZADILLA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Caripe",
+          "parroquia": "El Guácharo",
+          "edad": 46,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Maestro: Educación Integral"
+        },
+        {
+          "cedula": 27243634,
+          "nombre": "MARÍA ALEJANDRA MORALES RODRÍGUEZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Uracoa",
+          "parroquia": "Uracoa",
+          "edad": 29,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        },
+        {
+          "cedula": 30624460,
+          "nombre": "LUIS MANUEL GONZÁLEZ RODRÍGUEZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Bolívar",
+          "parroquia": "Caripito",
+          "edad": 22,
+          "sexo": "M",
+          "nivelAcademico": "TECNICO SUPERIOR",
+          "profesion": "T.S.U. en Mantenimiento"
+        }
+      ]
+    },
+    {
+      "id": "VE-O",
+      "name": "Nueva Esparta",
+      "displayName": "Nueva Esparta",
+      "path": "M477.456,197.761L480.324,199.04L480.678,199.949L480.107,200.712L479.069,200.785L478.234,200.368L478.259,199.651L476.356,199.104L476.577,198.16ZM482.559,184.69L484.887,191.169L483.632,190.898L483.632,191.969L482.713,191.41L480.544,194.728L477.456,194.482L474.184,195.823L474.296,194.641L472.753,194.488L471.956,192.979L469.615,191.421L467.707,192.548L460.461,191.421L461.954,187.614L467.875,186.449L469.105,187.167L469.388,188.752L472.178,190.11L474.603,190.49L475.842,189.505L475.842,187.865L477.456,185.376L479.066,185.101L481.216,182.936ZM469.9,197.011L470.401,197.652L469.657,198.162L467.842,197.872L468.53,197.037Z",
+      "operatorCount": 1,
+      "municipalities": {
+        "Maneiro": 1
+      },
+      "operators": [
+        {
+          "cedula": 13540590,
+          "nombre": "OMLY KARLA PALACIOS LABORI",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Maneiro",
+          "parroquia": "Pampatar",
+          "edad": 48,
+          "sexo": "F",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Licenciatura en Educación: Mención Preescolar."
+        }
+      ]
+    },
+    {
+      "id": "VE-W",
+      "name": "Dependencias Federales",
+      "displayName": "Dependencias Federales",
+      "path": "M424.215,191.015L429.001,192.126L429.13,193.95L427.57,194.728L427.835,194.182L424.736,194.482L421.927,193.906L420.994,193.133L422.374,191.479ZM373.923,158.691L374.729,158.691L372.603,159.561L370.138,158.691L372.247,158.809L373.654,157.046L374.194,157.743ZM390.208,157.301L393.803,157.237L393.368,158.819L392.222,158.743ZM452.647,154.028L454.629,155.708L454.391,157.345L451.01,156.796L451.01,155.95ZM364.232,159.966L369.212,158.733L365.287,160.172ZM365.798,155.068L369.851,155.283L365.678,155.155ZM331.963,150.387L332.981,150.617L333.429,150.774L332.316,150.695ZM331.745,148.964L331.7,148.934L331.798,148.839ZM331.855,148.852L331.87,148.764L331.892,148.888ZM331.879,148.108L331.971,148.024L331.915,148.185ZM331.707,147.409L331.721,147.484L331.586,147.419ZM331.473,147.333L331.414,147.196L331.482,147.255Z",
+      "operatorCount": 0,
+      "municipalities": {},
+      "operators": []
+    },
+    {
+      "id": "VE-X01~",
+      "name": "Desconocido",
+      "displayName": "Desconocido",
+      "path": "M490.873,0.268L490.553,0L490.909,0Z",
+      "operatorCount": 0,
+      "municipalities": {},
+      "operators": []
+    },
+    {
+      "id": "VE-J",
+      "name": "Guárico",
+      "displayName": "Guárico",
+      "path": "M409.788,231.989L409.552,236.268L411.034,239.155L409.64,242.674L417.962,247.327L420.253,244.082L422.654,247.902L428.609,249.815L429.06,252.707L425.997,255.01L427.032,258.972L430.707,262.9L434.315,263.091L438.074,265.574L439.351,267.515L439.658,269.867L441.688,270.717L444.683,273.405L445.457,274.872L443.241,276.803L443.253,279.051L442.541,280.33L436.845,280.416L434.048,279.697L431.317,280.979L430.475,284.085L431.288,287.666L429.064,295.114L422.797,302.446L421.65,305.305L417.745,310.126L418.133,312.536L421.882,312.949L423.162,314.981L419.617,315.297L415.837,313.768L411.694,313.771L406.961,316.107L404.384,319.439L400.235,322.535L398.49,322.919L392.703,322.351L388.557,324.244L384.85,323.756L385.083,322.201L383.981,320.288L382.321,320.602L379.893,319.873L377.1,317.089L376.391,317.298L376.37,317.928L367.766,319.52L360.448,318.199L357.895,318.948L356.28,317.839L353.017,318.84L349.602,317.797L346.532,316.033L345.219,314.201L342.94,313.319L340.096,313.615L337.343,313.091L337.103,311.433L338.184,310.538L337.519,310.064L336.767,310.403L335.101,307.915L335.908,307.87L335.908,306.514L334.028,305.97L331.863,301.469L330.657,300.379L328.304,300.294L327.826,298.076L327.289,298.891L326.198,298.209L326.214,297.261L324.579,296.719L324.847,294.818L323.773,295.09L322.698,293.732L321.352,293.723L319.973,291.949L320.169,290.888L317.737,288.387L319.328,287.712L318.647,285.946L319.226,283.766L318.672,279.987L320.471,273.689L322.978,271.316L324.876,267.126L324.245,262.742L321.447,257.664L322.345,254.929L322.448,252.092L321.862,249.92L320.586,248.419L321.871,247.351L321.888,246.243L323.139,244.897L325.139,245.014L328.759,242.797L326.759,235.255L326.746,233.108L328.403,233.074L329.535,234.403L330.801,234.803L331.011,236.426L333.833,235.258L335.016,235.713L336.218,233.449L337.7,233.852L337.5,232.067L341.091,230.694L345.113,233.068L347.278,232.87L348.133,233.679L351.378,233.331L354.515,238.136L359.055,240.112L360.537,242.437L364.07,243.215L364.183,245.916L363.376,247.623L362.486,248.629L359.279,249.716L358.618,251.99L364.042,251.805L370.872,254.283L373.336,254.41L375.213,253.698L375.957,251.247L375.264,248.982L376.488,245.191L373.42,241.27L373.354,239.92L374.887,238.165L373.747,231.469L380.145,230.849L382.413,229.352L390.359,232.178L392.633,231.463L393.459,232.215L395.42,231.869L398.992,232.969L402.945,231.884L407.057,232.656Z",
+      "operatorCount": 2,
+      "municipalities": {
+        "Julián Mellado": 1,
+        "José Tadeo Monagas": 1
+      },
+      "operators": [
+        {
+          "cedula": 8770034,
+          "nombre": "ALEXANDER RAFAEL SISO TOVAR",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Julián Mellado",
+          "parroquia": "El Sombrero",
+          "edad": 61,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Licenciatura en Administración Comercial"
+        },
+        {
+          "cedula": 9886301,
+          "nombre": "ALEXANDER JOSÉ AVILÉ CÓRDOVA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "José Tadeo Monagas",
+          "parroquia": "San Francisco Javier de Lezama",
+          "edad": 56,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller Integral"
+        }
+      ]
+    },
+    {
+      "id": "VE-H",
+      "name": "Cojedes",
+      "displayName": "Cojedes",
+      "path": "M327.48,237.036L328.759,242.797L325.139,245.014L323.139,244.897L321.888,246.243L321.871,247.351L320.586,248.419L321.862,249.92L322.448,252.092L322.345,254.929L321.447,257.664L324.245,262.742L324.917,266.625L322.978,271.316L320.61,273.398L319.459,276.741L318.632,280.524L319.226,283.766L318.647,285.946L319.255,287.9L318.212,288.613L316.68,286.918L312.665,285.585L309.811,285.964L303.959,285.23L302.529,285.792L299.41,285.44L294.32,283.186L292.31,281.38L291.477,279.212L289.654,278.292L292.242,277.464L293.063,277.797L296.26,275.879L294.144,274.1L293.518,272.189L295.362,261.045L293.909,258.952L286.872,253.292L284.863,252.499L280.131,240.976L280.708,235.829L285.383,235.993L287.53,231.692L292.826,231.375L294.663,229.674L296.267,229.928L296.378,232.212L298.389,233.204L297.903,234.115L299.346,234.103L305.839,230.003L307.263,227.34L309.665,224.987L311.099,227.616L309.199,229.272L309.665,230.648L315.978,235.621L316.601,235.905L319.356,234.549L319.701,234.974L319.06,235.962L320.054,236.841L323.901,237.353Z",
+      "operatorCount": 1,
+      "municipalities": {
+        "Ezequiel Zamora": 1
+      },
+      "operators": [
+        {
+          "cedula": 29525538,
+          "nombre": "GUSBERLY ZAIRE JASPE MEJÍAS",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Ezequiel Zamora",
+          "parroquia": "San Carlos de Austria",
+          "edad": 24,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        }
+      ]
+    },
+    {
+      "id": "VE-A",
+      "name": "Distrito Capital",
+      "displayName": "Distrito Capital",
+      "path": "M358.302,207.131L360.421,208.159L363.478,208.258L364.27,209.555L363.193,210.884L362.547,213.492L360.728,213.283L357.343,214.419L352.568,212.92L353.519,211.787L356.414,210.989L356.418,209.121L357.891,208.366Z",
+      "operatorCount": 4,
+      "municipalities": {
+        "Libertador": 4
+      },
+      "operators": [
+        {
+          "cedula": 13253196,
+          "nombre": "FRANCISCO JAVIER PÉREZ CORTEZ",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Libertador",
+          "parroquia": "La Vega",
+          "edad": 49,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller Integral"
+        },
+        {
+          "cedula": 13861448,
+          "nombre": "ISMAEL ARGENIS LEÓN TOVAR",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Libertador",
+          "parroquia": "Sucre",
+          "edad": 48,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Ciencias"
+        },
+        {
+          "cedula": 26908196,
+          "nombre": "AYURAI CLAVEL HERNÁNDEZ MEJÍAS",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Libertador",
+          "parroquia": "Sucre",
+          "edad": 29,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Humanidades"
+        },
+        {
+          "cedula": 27793314,
+          "nombre": "MAIBE ZANDALY CASTILLO PACHECO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Libertador",
+          "parroquia": "San José",
+          "edad": 25,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller"
+        }
+      ]
+    },
+    {
+      "id": "VE-E",
+      "name": "Barinas",
+      "displayName": "Barinas",
+      "path": "M316.68,286.918L320.169,290.888L319.973,291.949L321.352,293.723L322.698,293.732L323.773,295.09L324.847,294.818L324.579,296.719L326.214,297.261L326.348,298.347L327.289,298.891L327.826,298.076L328.304,300.294L330.378,300.247L331.863,301.469L334.028,305.97L335.908,306.514L335.908,307.87L335.031,307.627L336.341,309.985L337.519,310.064L338.095,310.923L337.103,311.433L334.7,309.818L324.579,308.412L323.703,308.733L320.965,307.623L317.033,307.87L309.078,311.522L308.33,310.949L305.728,311.149L304.431,310.138L302.417,310.615L300.086,312.234L294.236,311.012L290.46,313.137L286.777,313.667L281.993,312.505L281.001,309.819L277.695,310.582L275.4,309.522L274.582,308.141L272.409,306.987L262.485,306.948L257.131,311.74L250.968,315.974L246.977,317.435L245.881,317.262L243.029,319.415L239.945,319.554L237.085,321.282L235.239,324.514L234.308,325.082L229.127,325.528L227.867,328.976L226.001,331.612L222.385,332.699L221.607,334.556L220.801,334.261L218.94,336.243L216.748,336.452L215.674,337.806L214.256,338.08L209.203,336.993L206.101,338.077L203.245,337.264L198.737,334.458L193.709,333.448L191.361,331.45L190.62,331.823L183.274,331.079L180.658,332.094L178.998,331.527L177.264,332.094L176.463,331.495L175.99,332.331L175.173,332.338L172.989,331.929L171.694,330.508L168.044,329.854L167.826,329.277L168.188,328.328L173.928,327.689L186.962,330.194L188.571,329.788L186.282,328.692L181.839,324.495L182.128,322.324L183.185,321.612L182.97,318.948L191.167,312.862L198.793,305.422L200.686,301.062L199.912,298.709L198.589,297.561L198.101,294.837L199.642,292.928L200.075,291.298L201.921,289.654L202.631,285.884L203.907,284.776L204.689,284.981L207.536,280.948L210.256,278.718L211.864,279.384L213.467,277.04L217.774,275.725L218.635,272.979L220.331,270.667L223.035,269.236L229.818,269.085L233.314,269.703L240.331,276.107L247.588,279.919L249.497,279.969L252.082,281.013L255.318,278.86L256.121,280.108L261.465,283.14L268.351,284.221L269.653,286.567L272.925,289.9L273.44,292.236L275.331,292.628L274.35,294.738L274.811,295.843L276.829,298.156L280.377,300.281L281.862,302.403L285.587,305.333L286.872,304.759L286.58,301.826L288.007,297.191L293.435,292.986L295.425,289.925L296.609,284.532L302.529,285.792L303.608,285.233L306.338,285.863L312.665,285.585Z",
+      "operatorCount": 0,
+      "municipalities": {},
+      "operators": []
+    },
+    {
+      "id": "VE-K",
+      "name": "Lara",
+      "displayName": "Lara",
+      "path": "M280.708,235.829L280.587,238.824L279.289,240.13L277.204,241.71L272.987,242.639L271.051,242.425L269.447,240.945L268.873,236.349L266.567,239.369L264.945,243.788L262.893,244.878L256.544,245.373L256.056,245.868L255.235,247.37L255.612,249.666L255.128,253.018L254.506,253.487L252.023,254.249L251.19,252.807L249.799,253.379L245.711,253.475L246.034,251.616L248.805,247.738L246.743,247.385L244.465,247.998L243.382,247.135L240.226,250.183L239.194,252.866L238.046,250.381L236.192,249.404L235.221,246.172L235.812,244.695L237.762,243.382L239.026,243.472L239.978,242.487L236.956,239.192L234.167,238.703L232.099,236.287L230.759,237.048L229.49,235.166L227.536,234.669L226.658,233.083L222.604,234.273L220.162,232.984L217.671,228.67L215.962,229.216L214.448,231.893L214.481,233.943L213.701,233.812L208.751,230.77L206.863,228.389L206.732,227.331L208.036,225.282L212.529,222.37L213.896,218.995L215.393,217.076L219.429,215.619L221.969,211.583L224.184,210.788L227.782,207.643L230.767,207.804L234.296,204.069L238.634,204.326L241.699,202.516L245.74,202.215L247.423,200.922L248.121,201.32L247.524,202.065L248.758,202.077L253.712,199.546L258.698,200.453L260.217,202.33L263.069,201.658L274.864,202.885L282.817,202.242L284.336,203.755L284.063,205.892L281.233,207.864L279.041,207.948L277.921,211.033L277.069,211.682L277.14,213.156L278.763,213.218L279.242,220.201L275.19,222.029L273.456,225.012L271.194,223.263L270.486,224.252L270.883,225.729L274.265,229.916L274.355,232.789L275.984,235.054L276.943,234.124L277.001,231.801L280.653,229.736L281.452,230.12L282.787,232.894Z",
+      "operatorCount": 3,
+      "municipalities": {
+        "Palavecino": 1,
+        "Simón Planas": 2
+      },
+      "operators": [
+        {
+          "cedula": 12528540,
+          "nombre": "NOHEMY DE JESÚS BETANCOURT PEÑA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Palavecino",
+          "parroquia": "José Gregorio Bastidas",
+          "edad": 51,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller Integral"
+        },
+        {
+          "cedula": 12528673,
+          "nombre": "YERLI ZOE BETANCOURT PEÑA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Simón Planas",
+          "parroquia": "Gustavo Vegas León",
+          "edad": 49,
+          "sexo": "F",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Ciencias"
+        },
+        {
+          "cedula": 14887465,
+          "nombre": "GABINO CRISPIANO ROMERO PERAZA",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Simón Planas",
+          "parroquia": "Gustavo Vegas León",
+          "edad": 47,
+          "sexo": "M",
+          "nivelAcademico": "BACHILLER",
+          "profesion": "Bachiller en Ciencias"
+        }
+      ]
+    },
+    {
+      "id": "VE-P",
+      "name": "Portuguesa",
+      "displayName": "Portuguesa",
+      "path": "M280.587,238.824L280.131,240.976L284.863,252.499L286.872,253.292L293.909,258.952L295.362,261.045L293.518,272.189L294.144,274.1L296.26,275.879L293.063,277.797L292.242,277.464L289.654,278.292L291.477,279.212L292.31,281.38L293.679,282.673L296.609,284.532L296.564,285.801L295.425,289.925L293.435,292.986L288.007,297.191L286.58,301.826L287.07,304.032L286.069,305.327L284.957,305.114L284.185,303.732L282.126,302.643L280.377,300.281L276.829,298.156L274.811,295.843L274.35,294.738L275.331,292.628L273.44,292.236L272.925,289.9L269.653,286.567L268.351,284.221L261.465,283.14L256.121,280.108L255.318,278.86L252.082,281.013L249.497,279.969L247.588,279.919L240.331,276.107L233.314,269.703L235.839,269.057L238.024,264.294L237.92,259.965L236.859,260.485L235.248,260.082L235.147,259.432L238.341,255.152L240.226,250.183L243.086,247.231L244.465,247.998L246.743,247.385L248.805,247.738L246.034,251.616L245.711,253.475L249.799,253.379L251.19,252.807L252.023,254.249L255.128,253.018L255.612,249.666L255.235,247.37L256.056,245.868L256.544,245.373L262.893,244.878L264.945,243.788L266.567,239.369L268.873,236.349L269.538,238.833L269.305,240.617L271.485,242.538L277.204,241.71Z",
+      "operatorCount": 1,
+      "municipalities": {
+        "Páez": 1
+      },
+      "operators": [
+        {
+          "cedula": 21395333,
+          "nombre": "HERMES JOEL HERNÁNDEZ MORENO",
+          "cargo": "OPERADOR LOCAL",
+          "municipio": "Páez",
+          "parroquia": "Acarigua",
+          "edad": 32,
+          "sexo": "M",
+          "nivelAcademico": "LICENCIADO",
+          "profesion": "Licenciatura en Teatro. Mención Actuación"
+        }
+      ]
+    },
+    {
+      "id": "VE-Esequibo",
+      "name": "Guayana Esequiba",
+      "displayName": "Guayana Esequiba",
+      "path": "M643.404,295.207L669.235,309.826L692.905,335.689L692.905,356.101L692.905,357.04L692.905,376.358L692.905,390.132L692.905,425.688L692.905,435.992L692.905,445.3L692.905,465.655L692.905,494.284L692.905,494.33L692.905,516.572L692.905,550.803L692.905,552.213L692.905,548.874L692.905,559.342L692.905,566.244L692.905,567.947L691.331,575.654L672.021,573.702L647.819,555.236L644.967,537.021L634.897,517.111L641.156,483.57L652.068,469.68L643.045,451.35L629.528,445.373L634.644,428.038L625.488,418.936L605.036,420.683L578.413,390.689L589.07,379.8L588.286,361.517L612.494,355.158L622.263,347.734L608.797,333.019L612.234,318.548Z",
+      "operatorCount": 0,
+      "municipalities": {},
+      "operators": []
+    }
+  ],
+  "demographics": {
+    "instruction": [
+      {
+        "name": "Bachilleres",
+        "value": 36.4,
+        "count": 20
+      },
+      {
+        "name": "Universitarios",
+        "value": 45.5,
+        "count": 25
+      },
+      {
+        "name": "TSU",
+        "value": 6.8,
+        "count": 4
+      },
+      {
+        "name": "Especialistas",
+        "value": 6.8,
+        "count": 4
+      },
+      {
+        "name": "Magister",
+        "value": 4.5,
+        "count": 2
+      }
+    ],
+    "age": [
+      {
+        "name": "20 - 30 años",
+        "value": 20.5,
+        "count": 11
+      },
+      {
+        "name": "31 - 40 años",
+        "value": 27.3,
+        "count": 15
+      },
+      {
+        "name": "41 - 50 años",
+        "value": 29.5,
+        "count": 16
+      },
+      {
+        "name": "51 - 60 años",
+        "value": 9.1,
+        "count": 5
+      },
+      {
+        "name": "61 - 70 años",
+        "value": 13.6,
+        "count": 8
+      }
+    ],
+    "gender": [
+      {
+        "name": "Mujeres",
+        "value": 55.1,
+        "originalValue": 56.8,
+        "count": 31
+      },
+      {
+        "name": "Hombres",
+        "value": 44.9,
+        "originalValue": 46.2,
+        "count": 24
+      }
+    ]
+  },
+  "qualitative": {
+    "weaknesses": [
+      {
+        "title": "Recursos y Logística Insuficientes",
+        "dimension": "DESARROLLO",
+        "color": "#C6321E",
+        "symbol": "Ayúdame y deja que te ayude",
+        "description": "Se refiere a la carencia de elementos fundamentales para la operatividad diaria, como equipos tecnológicos (computadoras, teléfonos), acceso a internet, transporte para el trabajo territorial, y materiales de oficina necesarios para llevar a cabo las tareas de manera eficiente."
+      },
+      {
+        "title": "Desafíos en la Coordinación y Comunicación",
+        "dimension": "RECONOCIMIENTO",
+        "color": "#17A492",
+        "symbol": "La tela de la araña",
+        "description": "Abarca los problemas relacionados con el flujo de información dentro de la estructura de CONADECAFRO y entre sus diferentes niveles o coordinaciones. También incluye la falta de claridad en las directrices, la comunicación tardía o ineficaz, y las dificultades para trabajar de manera sincronizada."
+      },
+      {
+        "title": "Problemas en las Relaciones Interinstitucionales y Comunitarias",
+        "dimension": "INCLUSIÓN",
+        "color": "#FFBF1B",
+        "symbol": "Cocodrilos siameses",
+        "description": "Describe los obstáculos que surgen al interactuar con otras organizaciones gubernamentales (alcaldías, gobernaciones), instituciones locales y la comunidad en general. Esto puede incluir falta de colaboración, desconfianza, resistencia o dificultades para lograr la participación y el apoyo necesarios para las iniciativas."
+      },
+      {
+        "title": "Necesidades de Formación y Conocimiento",
+        "dimension": "JUSTICIA",
+        "color": "#6B017F",
+        "symbol": "Cuernos de carnero",
+        "description": "Se centra en la falta de capacitación específica o el conocimiento insuficiente en áreas relevantes para el desempeño de las funciones. Esto puede incluir temas técnicos de las coordinaciones sustantivas, manejo de herramientas o comprensión de políticas y procedimientos."
+      },
+      {
+        "title": "Factores Políticos y Sociales Internos",
+        "dimension": "PAZ",
+        "color": "#CCCCCC",
+        "symbol": "Verja, valla",
+        "description": "Engloba las dificultades que se originan en el entorno político local o en las dinámicas sociales dentro de las comunidades. Esto puede incluir la influencia de intereses políticos, conflictos internos en la comunidad o la falta de apoyo de ciertos actores clave."
+      }
+    ],
+    "strengths": [
+      {
+        "title": "Conocimiento y Conexión Territorial",
+        "dimension": "RECONOCIMIENTO",
+        "color": "#17A492",
+        "symbol": "La tela de la araña",
+        "description": "Destaca la familiaridad profunda con el área geográfica de trabajo, la comprensión de sus dinámicas sociales and culturales, y las relaciones establecidas con líderes y miembros de la comunidad. Esto facilita el acceso y la efectividad del trabajo."
+      },
+      {
+        "title": "Habilidades Interpersonales y Liderazgo",
+        "dimension": "INCLUSIÓN",
+        "color": "#FFBF1B",
+        "symbol": "Cocodrilos siameses",
+        "description": "Se refiere a la capacidad de establecer relaciones positivas y efectivas con las personas, incluyendo carisma, empatía, habilidades de comunicación y la capacidad de motivar, guiar e influir en otros para lograr objetivos comunes."
+      },
+      {
+        "title": "Experiencia y Compromiso Profesional",
+        "dimension": "JUSTICIA",
+        "color": "#6B017F",
+        "symbol": "Cuernos de carnero",
+        "description": "Resalta la trayectoria laboral previa, el conocimiento adquirido a través de la experiencia y el nivel de dedicación, responsabilidad y compromiso personal con la misión y los objetivos de CONADECAFRO."
+      },
+      {
+        "title": "Adaptabilidad y Recursos Personales",
+        "dimension": "DESARROLLO",
+        "color": "#C6321E",
+        "symbol": "Ayúdame y deja que te ayude",
+        "description": "Subraya la flexibilidad para ajustarse a diferentes situaciones y desafíos, así como las cualidades individuales valiosas como la perseverancia, la creatividad, la organización y el conocimiento cultural afrodescendiente que contribuyen al desempeño del rol."
+      },
+      {
+        "title": "Uso de Herramientas de Comunicación",
+        "dimension": "PAZ",
+        "color": "#CCCCCC",
+        "symbol": "Verja, valla",
+        "description": "Enfatiza la habilidad para utilizar diversos medios y tecnologías de la comunicación, especialmente digitales (redes sociales, grupos de mensajería), para difundir información, coordinar actividades y mantener el contacto con las comunidades y otros actores."
+      }
+    ],
+    "suggestions": [
+      {
+        "title": "Asignación de Recursos Esenciales",
+        "dimension": "DESARROLLO",
+        "color": "#C6321E",
+        "symbol": "Ayúdame y deja que te ayude",
+        "description": "Agrupa las peticiones directas de elementos necesarios para mejorar el trabajo, como equipos tecnológicos (computadoras, teléfonos), apoyo económico para traslados, materiales de oficina, uniformes y otras herramientas logísticas."
+      },
+      {
+        "title": "Mejora de la Comunicación y Articulación",
+        "dimension": "RECONOCIMIENTO",
+        "color": "#17A492",
+        "symbol": "La tela de la araña",
+        "description": "Incluye las sugerencias para optimizar el flujo de información entre los diferentes niveles de CONADECAFRO y con otras instituciones, así como para fortalecer la colaboración y el trabajo conjunto."
+      },
+      {
+        "title": "Desarrollo Profesional y Formación",
+        "dimension": "JUSTICIA",
+        "color": "#6B017F",
+        "symbol": "Cuernos de carnero",
+        "description": "Abarca las propuestas relacionadas con la necesidad de capacitación continua, talleres, diplomados o cualquier otra iniciativa que contribuya al crecimiento profesional y la adquisición de nuevos conocimientos y habilidades."
+      },
+      {
+        "title": "Optimización de la Operatividad y Estructura",
+        "dimension": "PAZ",
+        "color": "#CCCCCC",
+        "symbol": "Verja, valla",
+        "description": "Contiene las ideas para mejorar la organización interna del programa, la definición de procesos, la distribución de tareas y la creación de estructuras de apoyo más eficientes (como oficinas locales o equipos de trabajo por estado)."
+      },
+      {
+        "title": "Adaptar las estrategias para el Trabajo Comunitario",
+        "dimension": "INCLUSIÓN",
+        "color": "#FFBF1B",
+        "symbol": "Cocodrilos siameses",
+        "description": "Reúne las sugerencias específicas para abordar de manera más efectiva a las comunidades, incluyendo la difusión de información sobre CONADECAFRO, la mejora de la receptividad y la adaptación de las metodologías de trabajo a las realidades locales."
+      }
+    ]
+  },
+  "proposals": [
+    {
+      "category": "Cultura Organizacional",
+      "title": "Jornadas de Acompañamiento Territorial",
+      "color": "#6B017F",
+      "description": "Realizar unas jornadas de acompañamiento a las Operadoras y Operadores en los territorios donde se haga énfasis en la Cultura Organizacional de CONADECAFRO."
+    },
+    {
+      "category": "Logística y Dotación",
+      "title": "Entrega de Kits y Franelas Institucionales",
+      "color": "#17A492",
+      "description": "Entregar Kit de Materiales de Oficina (libretas, lápices, bolígrafos) y continuar con la dotación de Franelas Institucionales para fortalecer el sentido de pertenencia, así como la entrega de Pendones identificativos para visibilizar al consejo en actividades."
+    },
+    {
+      "category": "Recursos Humanos",
+      "title": "Trámites de Personal y Credenciales",
+      "color": "#FFBF1B",
+      "description": "Retomar la entrega del carnet institucional, una carpeta contentiva de constancias de trabajo, contratos laborales y demás documentos asociados al personal que se requiera entregar en sitio."
+    },
+    {
+      "category": "Motivación",
+      "title": "Reconocimiento por Alto Desempeño o Antigüedad",
+      "color": "#CCCCCC",
+      "description": "Elaborar certificados o botones a las Operadoras y Operadores que han cumplido satisfactoriamente con sus actividades para elevar la motivación y el compromiso."
+    },
+    {
+      "category": "Formación",
+      "title": "Refuerzo Técnico del Área Sustantiva",
+      "color": "#C6321E",
+      "description": "Solicitar a las Coordinaciones del Área Sustantiva una presentación y/o carpeta contentiva de refuerzo con toda la información necesaria para los encuentros territoriales."
+    },
+    {
+      "category": "Tecnología",
+      "title": "Evaluación para Dotación de Equipos",
+      "color": "#0f0d13",
+      "description": "Realizar una evaluación diagnóstica en sitio para determinar la dotación prioritaria de equipos de computación y/o teléfonos celulares para mejorar la conectividad."
+    }
+  ]
+}
